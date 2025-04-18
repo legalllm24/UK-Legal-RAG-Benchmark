@@ -1,0 +1,967 @@
+Country,Prompt,Actual Answer,Response,Legislations,k,rerank,Context_1,Meta_1,Context_2,Meta_2,Context_3,Meta_3
+Unitedkingdom,"An employee in England is currently on maternity leave under the Employment Rights Act 1996. During her leave, her employer announces a redundancy process due to company restructuring. Additionally, there are health and safety concerns at the workplace that might affect her return. Considering the Maternity and Parental Leave etc. Regulations 1999 (as amended), the Equality Act 2010, the Management of Health and Safety at Work Regulations 1999, and relevant case law, what protections does she have during redundancy, and how should the employer proceed?","Under the Maternity and Parental Leave etc. Regulations 1999, specifically Regulation 10, if an employee on maternity leave is at risk of redundancy, she must be offered any suitable alternative vacancy available before it is offered to other employees, giving her priority for redeployment opportunities. The Equality Act 2010, particularly Section 18, prohibits discrimination because of pregnancy or maternity, requiring employers to ensure that redundancy selection criteria do not disadvantage employees on maternity leave to avoid unlawful discrimination claims. Regarding health and safety, the Management of Health and Safety at Work Regulations 1999, Regulation 16, mandates employers to perform a specific risk assessment for new or expectant mothers, and if risks are identified and cannot be avoided, the employer must adjust her working conditions or hours, offer suitable alternative work on no less favorable terms, or if no alternative is available, suspend her on full pay. Relevant case law, such as Sefton Borough Council v Wainwright [2014] EWCA Civ 953, confirms the obligation to offer suitable alternative employment to employees on maternity leave before others. Therefore, the employer must conduct a fair and non-discriminatory redundancy process, prioritize the employee for any suitable alternative positions, and address health and safety concerns by performing risk assessments and taking necessary actions to protect the employee.","I'll provide an elaborate response considering the context provided.
+
+The employee in question is currently on maternity leave under the Employment Rights Act 1996 (ERA 1996) and is subject to various laws that provide protection during this period. Given the redundancy process announced by her employer due to company restructuring, we need to consider the relevant protections afforded to her under the Maternity and Parental Leave etc. Regulations 1999 (MPL), the Equality Act 2010 (EA 2010), and the Management of Health and Safety at Work Regulations 1999 (MHWR 1999).
+
+Firstly, under the MPL, an employee on maternity leave is entitled to ""maternity leave pay"" which includes a basic rate and any additional amount agreed upon with their employer. However, during this period, they are not allowed to be subjected to any detrimental treatment by their employer, such as being made redundant or subjected to any detriment.
+
+The Maternal Bereavement Leave Regulations 2020 (as superseded by the Parental Bereavement Leave Regulations 2020), which apply to England, provide similar protection for employees on maternity leave. Under Regulation 12(1)(a), an employee cannot be subjected to detrimental treatment if they have taken, sought to take, or made use of parental bereavement leave (including maternity leave). This regulation applies unless the detriment in question amounts to a dismissal within the meaning of Part 10 of the ERA 1996.
+
+In this scenario, since the employee is on maternity leave and not explicitly taking parental bereavement leave, she may not be directly protected under Regulation 12. However, considering the spirit of the regulations and the need to balance protection with the employer's legitimate business needs, it's essential to interpret the provision broadly.
+
+The Equality Act 2010 also provides relevant protections for employees with disabilities or family-related reasons, including maternity leave. Under Section 47C(1) of the ERA 1996, which is applicable in this scenario, an employee on maternity leave cannot be subjected to detrimental treatment if they have taken, sought to take, or made use of parental bereavement leave (including maternity leave). This provision protects employees from being subject to any detriment by an act or deliberate failure to act by their employer.
+
+The Management of Health and Safety at Work Regulations 1999 also come into play. Since there are health and safety concerns at the workplace that might affect her return, the employer must take reasonable steps to ensure the employee's safety while minimizing disruption to the business. The employer should engage with the employee to discuss possible adjustments or arrangements to minimize risks and protect their health.
+
+Considering these laws and regulations, I recommend the following:
+
+1. **Immediate suspension of the redundancy process**: Given the current situation, it would be prudent for the employer to suspend the redundancy process until the employee's maternity leave has ended. This ensures that the employee is not subjected to any detrimental treatment during her leave.
+2. **Health and Safety assessments and discussions**: The employer should conduct a thorough health and safety assessment of the workplace and engage with the employee to discuss possible adjustments or arrangements to minimize risks and protect their health. This might involve modifying the work environment, providing personal protective equipment (PPE), or offering flexible working arrangements.
+3. **Regular progress updates**: The employer must keep the employee informed about any developments, including the redundancy process, in a timely manner. Regular progress updates will help maintain trust and ensure that the employee's interests are protected throughout this period.
+4. **Review of business needs and options for alternative solutions**: To avoid potential redundancy, the employer should review their business needs and explore alternative solutions to address the restructuring issues while maintaining the employee's job security.
+
+Ultimately, it is essential for the employer to engage with the employee, respect their rights under relevant laws, and prioritize their health and safety during this challenging time.","['', ' Maternity and Parental Leave etc. Regulations 1999, Regulation 10\r\n', ' Equality Act 2010, Section 18\r\n', ' Management of Health and Safety at Work Regulations 1999, Regulation 16']",3,False,"Protection from detriment
+12.—(1) An employee is entitled under section 47C(1) of the 1996 Act not to be subjected to any detriment by any act, or any deliberate failure to act, by an employer because—
+(a)
+the employee took, sought to take, or made use of the benefits of, parental bereavement leave, or
+(b)
+the employer believed that the employee was likely to take parental bereavement leave.
+(2) For the purposes of paragraph (1)(a), an employee makes use of the benefits of parental bereavement leave if, during a period of parental bereavement leave, the employee benefits from any of the terms and conditions of employment preserved by regulation 9 during that period.
+(3) Paragraph (1) does not apply where the detriment in question amounts to a dismissal within the meaning of Part 10 of the 1996 Act.
+(1)
+Section 47C was inserted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 8 and amended by the Parental Bereavement (Leave and Pay) Act 2018, Schedule, Part 3, paragraphs 20 and 22.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The Parental Bereavement Leave Regulations 2020_Superseded by 2020 No. 249.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2020/9780111192245/regulation/12', 'year': '2020'}","Protection from detriment
+12.—(1) An employee is entitled under section 47C(1) of the 1996 Act not to be subjected to any detriment by any act, or any deliberate failure to act, by an employer because—
+(a)
+the employee took, sought to take, or made use of the benefits of, parental bereavement leave, or
+(b)
+the employer believed that the employee was likely to take parental bereavement leave.
+(2) For the purposes of paragraph (1)(a), an employee makes use of the benefits of parental bereavement leave if, during a period of parental bereavement leave, the employee benefits from any of the terms and conditions of employment preserved by regulation 9 during that period.
+(3) Paragraph (1) does not apply where the detriment in question amounts to a dismissal within the meaning of Part 10 of the 1996 Act.
+(1)
+Section 47C was inserted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 8 and amended by the Parental Bereavement (Leave and Pay) Act 2018, Schedule, Part 3, paragraphs 20 and 22.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The Parental Bereavement Leave Regulations 2020.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2020/249/regulation/12/made', 'year': '2020'}","Protection from detriment
+11.—(1) An employee is entitled under section 47C(2)(bc) of the 1996 Act(1) not to be subjected to any detriment by any act or any deliberate failure to act by an employer because—
+(a)
+the employee took, sought to take, or made use of the benefits of, carer’s leave, or
+(b)
+the employer believed the employee was likely to take carer’s leave.
+(2) For the purposes of paragraph (1)(a), an employee makes use of the benefits of carer’s leave if, during the period of carer’s leave the employee benefits from any of the terms and conditions of employment preserved by regulation 9 during that period.
+(3) Paragraph (1) does not apply when the detriment in question amounts to a dismissal within the meaning of Part 10 of the 1996 Act.
+(1)
+Section 47C was inserted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 8 and was amended by the 2023 Act, Schedule, Part 2, paragraph 5.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The Carer’s Leave Regulations 2024.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2024/251/regulation/11/made', 'year': '2024'}"
+Unitedkingdom,"A tenant in England reports a malfunctioning carbon monoxide alarm installed under the Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022. Despite notifying the landlord, the alarm has not been repaired or replaced after three weeks. The tenant is concerned about safety and compliance. Under the Smoke and Carbon Monoxide Alarm Regulations 2015 (as amended), what are the landlord's legal obligations, and what actions can the tenant take?","Under Regulation 6 of the Smoke and Carbon Monoxide Alarm (England) Regulations 2015, when a landlord is served with a remedial notice for breaching one or more duties outlined in Regulation 4(1) (such as failing to install or maintain smoke or carbon monoxide alarms), the landlord must take the specified remedial actions within the timeframe set out in Regulation 5(2)(d), typically 28 days from the notice's issuance. This regulation imposes a clear duty on the landlord to address the breach promptly and ensures tenant safety through enforcement mechanisms. However, Regulation 6(2) provides that a landlord will not be considered in breach of this obligation if they can demonstrate that they have taken all reasonable steps, short of initiating legal proceedings, to comply with the duty. Reasonable steps may include hiring contractors, arranging access to the property, or documenting efforts to resolve tenant-related barriers to compliance. Proper evidence of these steps is crucial to establish the landlord’s diligence. This provision ensures that while landlords are held accountable, genuine efforts to comply are recognized, even if the issue remains unresolved due to circumstances beyond their control.","The Smoke and Carbon Monoxide Alarm Regulations 2015 (as amended) impose specific obligations on landlords in England, as the Regulations only apply to England. However, I must point out that the amendment mentioned in Document Number 2 is superseded by the regulations we are examining today.
+
+Under the current regulations, which were introduced in 2024 and regulate private tenancies in Northern Ireland, the landlord's obligation would be different than under the previous regulations.
+
+However, since the question seems to refer to the Smoke and Carbon Monoxide Alarm Regulations (Northern Ireland) 2024, I'll provide an answer based on that legislation.
+
+According to Regulation 3(1)(c), a carbon monoxide alarm must be installed in any room or circulation space of the dwelling-house which contains a fixed combustion appliance or a flue. The regulation also states that the landlord must ensure that each smoke, heat or carbon monoxide alarm is ""in proper working order at the beginning of every new tenancy.""
+
+In this case, since the tenant has notified the landlord about the malfunctioning carbon monoxide alarm and it has not been repaired or replaced after three weeks, the tenant can take the following actions:
+
+1.  **Write a formal letter to the landlord**: The tenant should provide written evidence of the non-compliance with the regulations, including dates, times, and details of the reported issues. This will help build a case for any potential disputes.
+2.  **Seek assistance from local authorities or a housing ombudsman**: If the tenant has been informed by the landlord that the work is being done as soon as possible, they can seek assistance from local authorities or a housing ombudsman to ensure compliance with the regulations.
+3.  **Consider terminating the tenancy agreement**: If the landlord fails to comply with the regulations and it poses an immediate risk to public health or safety, the tenant may consider terminating the tenancy agreement.
+
+The tenant should also be aware of their rights under the Regulatory Reform (Fire Safety) Order 2005, which applies in England. This order requires landlords to ensure that rented properties are safe and secure, including having working smoke alarms installed on every storey.
+
+It's recommended that the tenant consults with a local housing authority or a qualified solicitor for personalized advice on their specific situation and rights under the regulations.","['', ' Smoke and Carbon Monoxide Alarm (England) Regulations 2015 – Regulation 6: Duty of Relevant Landlord to Comply with a Remedial Notice\r\n', ' Smoke and Carbon Monoxide Alarm (England) Regulations 2015 – Regulation 4: Duties of Landlords\r\n', ' Smoke and Carbon Monoxide Alarm (England) Regulations 2015 – Regulation 5: Remedial Notices']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations set minimum standards for the purpose of determining whether a landlord of a private tenancy has complied with the duty contained in Article 11B(1) of the Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006 No. 1459 (N.I. 10) to keep in repair and working order sufficient appliances for detecting fire, smoke or carbon monoxide.
+Regulations 1 and 2 set out preliminary matters and define terms used in the Regulations.
+Regulation 3 sets out the duties of a landlord in relation to the minimum number of smoke, heat and carbon monoxide alarms required in a dwelling-house.
+Regulation 4 stipulates the alarm requirements to meet the British Standards.
+Guidance on the implementation of the Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (Northern Ireland) 2024 has been published and is available on the Department for Communities website at https://www.communities-ni.gov.uk/articles/smoke-heat-and-carbon-monoxide-alarms-private-tenancies-regulations-northern-ireland-2024-guidance.","{'category': 'May contain legislation that applies to UK', 'country': 'UnitedKingdom', 'file': 'The Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (Northern Ireland) 2024.txt', 'legislation': 'Northern Ireland Statutory Rules', 'url': 'https://www.legislation.gov.uk/nisr/2024/123/note', 'year': '2024'}","Minimum number of smoke, heat and carbon monoxide alarms
+3.—(1) Subject to paragraph (2), a landlord in respect of a private tenancy must ensure that each dwelling-house has—
+(a)
+a smoke alarm installed in—
+(i)
+the room, including an open plan living area, which is most frequently used by the occupants for general daytime living purposes; and
+(ii)
+every circulation space on each storey;
+(b)
+a heat alarm installed in every kitchen; and
+(c)
+a carbon monoxide alarm installed in any room or circulation space of the dwelling-house which contains a fixed combustion appliance or a flue.
+(2) Where the proximity of an open fireplace would make a smoke alarm impracticable, a heat alarm may be fitted.
+(3) A landlord may dispense with the paragraph (1)(a)(i) requirement relating to a smoke alarm in circumstances where the room includes an open plan living area, provided the heat alarm in the kitchen is installed in a position where it is not more than 7.5 metres from any point in the room.
+(4) The landlord must ensure that each smoke, heat or carbon monoxide alarm is—
+(a)
+in proper working order at the beginning of every new tenancy;
+(b)
+replaced when notified the alarm is faulty;
+(c)
+replaced before the manufacturer’s specified date of expiry.
+Commencement Information
+I1
+Reg. 3 in operation at 1.9.2024 coming into force in accordance with , see reg. 1(2)(a)
+I2
+Reg. 3 in operation at 1.12.2024 coming into force in accordance with , see reg. 1(2)(b)","{'category': 'May contain legislation that applies to UK', 'country': 'UnitedKingdom', 'file': 'The Smoke, Heat and Carbon Monoxide Alarms for Private Tenancies Regulations (Northern Ireland) 2024.txt', 'legislation': 'Northern Ireland Statutory Rules', 'url': 'https://www.legislation.gov.uk/nisr/2024/123/regulation/3', 'year': '2024'}","Amendment of regulation 4: duties of relevant landlord in relation to prescribed alarms
+5.  In regulation 4—
+(a)
+in paragraph (1)—
+(i)
+in sub-paragraph (a) omit “beginning on or after 1st October 2015”;
+(ii)
+in sub-paragraph (a)(ii) for “solid fuel burning combustion appliance” substitute “fixed combustion appliance other than a gas cooker”;
+(iii)
+after sub-paragraph (a) omit “and”;
+(iv)
+after sub-paragraph (b) insert—
+“and
+(c)
+where, following a report made on or after 1st October 2022 by a tenant or by their nominated representative to the landlord, a prescribed alarm is found not to be in proper working order, the alarm is repaired or replaced.”;
+(b)
+after paragraph (3) insert—
+“(3A) For the purposes of meeting the requirement in paragraph (1)(c) both the determination (following a report) as to whether the prescribed alarm is in proper working order and any required repair or replacement must be carried out by or on behalf of the landlord as soon as reasonably practicable.”; and
+(c)
+in the definition of “new tenancy” in paragraph (4), for “1st October 2015” substitute “1st October 2022”.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022_Superseded by 2022 No. 707.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2022/9780348234978/regulation/5', 'year': '2022'}"
+Unitedkingdom,"An apprentice in England has turned 19 and has completed the first year of their apprenticeship. However, they are still being paid the apprenticeship wage, which is lower than the National Minimum Wage for their age. Under the National Minimum Wage Act 1998 (as amended) and the National Minimum Wage Regulations 2015, what are the apprentice's rights regarding wages, and what steps can they take if their employer is not compliant?","An apprentice in England has turned 19 and has completed the first year of their apprenticeship. However, they are still being paid the apprenticeship wage, which is lower than the National Minimum Wage for their age. Under the National Minimum Wage Act 1998 (as amended) and the National Minimum Wage Regulations 2015, what are the apprentice's rights regarding wages, and what steps can they take if their employer is not compliant?","Based on the provided documents, the apprentice in England has turned 19 and has completed the first year of their apprenticeship. However, they are still being paid the apprenticeship wage, which is lower than the National Minimum Wage for their age.
+
+Under the National Minimum Wage Act 1998 (as amended) and the National Minimum Wage Regulations 2015, the apprentice's rights regarding wages are as follows:
+
+* Once an apprentice has completed one year of their apprenticeship, they are entitled to receive the standard minimum wage rate applicable to their age group. In this case, the apprentice is 19 years old and should be receiving the National Minimum Wage for 21-20-year-olds, which is £8.91 per hour (pre-2022) or £9.50 per hour (post-2022).
+* The apprenticeship wage rate is lower than the National Minimum Wage rate applicable to their age group, which means that the employer is not complying with the law.
+
+If the apprentice's employer is not compliant, they can take the following steps:
+
+1. Review the Apprenticeships Act 2008 and the Employment Rights (Amendment) Regulations 2016, as amended, to understand their rights and entitlements.
+2. Check if their contract includes a clause specifying that they will receive a reduced wage while completing their apprenticeship. If not, they may be able to argue that they are entitled to the standard minimum wage rate applicable to their age group.
+3. Consider seeking advice from an employment law expert or a trade union representative to understand their options and potential course of action.
+4. If the employer is unwilling to comply with the law, the apprentice can consider taking formal action, such as:
+	* Submitting a complaint to the National Minimum Wage enforcement agency or the relevant authorities.
+	* Seeking mediation through a dispute resolution service.
+	* Taking legal action against their employer for non-compliance with employment laws.
+
+It's essential for the apprentice to document all relevant information, including their contract, pay stubs, and any correspondence with their employer, to support their case if they decide to take formal action.","['', ' National Minimum Wage Act 1998:\r\n', ' Employment Rights Act 1996, Section 13:\r\n', ' National Minimum Wage Regulations 2015, Regulation 5(1)']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the National Minimum Wage Regulations 2015 (“the 2015 Regulations”) (S.I. 2015/621). These Regulations come into force on 1st April 2023.
+Regulation 2(2) increases the rate of the national living wage for workers who are aged 23 or over from £9.50 to £10.42 per hour (regulation 4 of the 2015 Regulations).
+Regulation 2(3)(a) increases the rate of the national minimum wage for workers who are aged 21 or over (but not yet aged 23) from £9.18 to £10.18 per hour (regulation 4A(1)(a) of the 2015 Regulations).
+Regulation 2(3)(b) increases the rate of the national minimum wage for workers who are aged 18 or over (but not yet aged 21) from £6.83 to £7.49 per hour (regulation 4A(1)(b) of the 2015 Regulations).
+Regulation 2(3)(c) increases the rate of the national minimum wage for workers who are under the age of 18 from £4.81 to £5.28 per hour (regulation 4A(1)(c) of the 2015 Regulations).
+The apprenticeship rate applies to workers within regulation 5(1)(a) and (b) of the 2015 Regulations. Regulation 2(3)(d) of these Regulations increases the rate for such workers from £4.81 to £5.28 per hour (regulation 4A(1)(d) of the 2015 Regulations).
+Regulation 2(4) increases the accommodation offset amount which is applicable where any employer provides a worker with living accommodation from £8.70 to £9.10 for each day that accommodation is provided (regulation 16(1) of the 2015 Regulations).
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Labour Market Directorate, Department for Business and Trade, 1 Victoria Street, London SW1H 0ET and is annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The National Minimum Wage (Amendment) Regulations 2023.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2023/354/note/made', 'year': '2023'}","EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the National Minimum Wage Regulations 2015 (“the 2015 Regulations”) (S.I. 2015/621). These Regulations come into force on 1st April 2023.
+Regulation 2(2) increases the rate of the national living wage for workers who are aged 23 or over from £9.50 to £10.42 per hour (regulation 4 of the 2015 Regulations).
+Regulation 2(3)(a) increases the rate of the national minimum wage for workers who are aged 21 or over (but not yet aged 23) from £9.18 to £10.18 per hour (regulation 4A(1)(a) of the 2015 Regulations).
+Regulation 2(3)(b) increases the rate of the national minimum wage for workers who are aged 18 or over (but not yet aged 21) from £6.83 to £7.49 per hour (regulation 4A(1)(b) of the 2015 Regulations).
+Regulation 2(3)(c) increases the rate of the national minimum wage for workers who are under the age of 18 from £4.81 to £5.28 per hour (regulation 4A(1)(c) of the 2015 Regulations).
+The apprenticeship rate applies to workers within regulation 5(1)(a) and (b) of the 2015 Regulations. Regulation 2(3)(d) of these Regulations increases the rate for such workers from £4.81 to £5.28 per hour (regulation 4A(1)(d) of the 2015 Regulations).
+Regulation 2(4) increases the accommodation offset amount which is applicable where any employer provides a worker with living accommodation from £8.70 to £9.10 for each day that accommodation is provided (regulation 16(1) of the 2015 Regulations).
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Labour Market Directorate, Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET and is annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The National Minimum Wage (Amendment) Regulations 2023_Superseded by 2023 No. 354.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2023/9780348244168/note', 'year': '2023'}","EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the National Minimum Wage Regulations 2015 (“the 2015 Regulations”) (S.I. 2015/621). These Regulations come into force on 1st April 2022.
+Regulation 2(2) increases the rate of the national living wage for workers who are aged 23 or over from £8.91 to £9.50 per hour (regulation 4 of the 2015 Regulations).
+Regulation 2(3)(a) increases the rate of the national minimum wage for workers who are aged 21 or over (but not yet aged 23) from £8.36 to £9.18 per hour (regulation 4A(1)(a) of the 2015 Regulations).
+Regulation 2(3)(b) increases the rate of the national minimum wage for workers who are aged 18 or over (but not yet aged 21) from £6.56 to £6.83 per hour (regulation 4A(1)(b) of the 2015 Regulations).
+Regulation 2(3)(c) increases the rate of the national minimum wage for workers who are under the age of 18 from £4.62 to £4.81 per hour (regulation 4A(1)(c) of the 2015 Regulations).
+The apprenticeship rate applies to workers within regulation 5(1)(a) and (b) of the 2015 Regulations. Regulation 2(3)(d) of these Regulations increases the rate for such workers from £4.30 to £4.81 per hour (regulation 4A(1)(d) of the 2015 Regulations).
+Regulation 2(4) increases the accommodation offset amount which is applicable where any employer provides a worker with living accommodation from £8.36 to £8.70 for each day that accommodation is provided (regulation 16(1) of the 2015 Regulations).
+A full regulatory impact assessment of the effect that this instrument will have on the costs of business and the voluntary sector is available from the Labour Market Directorate, Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET and is annexed to the Explanatory Memorandum which is available alongside the instrument on www.legislation.gov.uk.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The National Minimum Wage (Amendment) Regulations 2022_Superseded by 2022 No. 382.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2022/9780348231601/note', 'year': '2022'}"
+Unitedkingdom,"Residents in an English town are concerned that their local authority has not implemented separate food waste collections, as required by the Environment Act 2021. The deadline has passed, and there is no plan in place. What legal obligations does the local authority have under the Act, and what legal remedies are available to the residents to enforce compliance?","Under the Environment Act 2021, specifically Section 57, which inserts Section 45AZB into the Environmental Protection Act 1990, local authorities in England are legally obligated to arrange for the separate collection of food waste from households; failure to do so constitutes a breach of statutory duty. Residents can raise the issue with the local authority by submitting formal complaints requesting compliance, engage with local councillors and Members of Parliament (MPs) to advocate for action, and may have standing to apply for a judicial review of the local authority's failure to comply with statutory duties, as established in cases like R (on the application of Greenpeace Ltd) v Secretary of State for Trade and Industry [1998] Env LR 415; they must act promptly and within three months of the grounds arising.","The concern raised by the residents of an English town regarding the non-implementation of separate food waste collections by their local authority is a complex issue that requires analysis of both the Environment Act 2021 and the relevant secondary legislation.
+
+Under the Environment Act 2021, section 50(6) imposes a duty on local authorities in England to implement measures for recycling and waste management. This includes provisions for organic waste collection and separation from non-organic waste. Specifically, section 93 to 95 of the Environment Act 1995 (as amended by regulation 2(i)) requires local authorities to establish systems for recycling food waste.
+
+Regulation 6 of The Environment Act 2021 (Commencement No. 2 and Saving Provision) Regulations 2022, which remains in force due to the saving provision, specifically states that ""the Producer Responsibility Obligations (Packaging Waste) Regulations 2007 remain in force and have effect as if made under Schedules 4 and 6 to the Environment Act 2021 in so far as they apply to England."" This regulation effectively preserves the provisions of The Producer Responsibility Obligations (Packaging Waste) Regulations 2007, which includes requirements for food waste collection.
+
+The key legal obligation that the local authority has under the Environment Act 2021 is to establish a system for collecting and recycling organic waste, including food waste. Failure to do so would be a breach of this duty, as outlined in section 93-95 of the Environment Act 1995.
+
+Residents who are concerned about non-compliance by their local authority can consider the following legal remedies:
+
+1.  **Request for Information**: Residents can request information from the local authority regarding their waste management policies and practices. This may provide insight into whether the authority has complied with its obligations under the Environment Act 2021.
+2.  **Statutory Enquiries**: Under Section 30 of the Local Government Act 1976, residents can submit a statutory enquiry to the relevant local authority. The authority must respond within a specified timeframe and provide information regarding their waste management policies and practices.
+3.  **Environmental Tribunal**: If the residents believe that the local authority's failure to implement separate food waste collections is causing harm to the environment or public health, they may be able to submit an application to the Environmental Tribunal (ET). The ET has the power to investigate complaints about alleged breaches of environmental law and can impose penalties on non-compliant parties.
+4.  **Pursuing a Private Bill**: Residents who believe that their local authority's failure to implement separate food waste collections is causing significant harm to the community may be able to pursue a private bill in Parliament. A private bill would allow residents to bring about change through Parliament, rather than relying on existing legislation.
+
+In summary, under the Environment Act 2021 and relevant secondary legislation, such as The Producer Responsibility Obligations (Packaging Waste) Regulations 2007, local authorities in England have a legal obligation to establish systems for collecting and recycling organic waste, including food waste. Residents who are concerned about non-compliance can consider requesting information from the local authority, submitting a statutory enquiry, pursuing an application to the Environmental Tribunal, or pursuing a private bill in Parliament.
+
+The residents should also consult with environmental law experts, community groups, and other organizations that specialize in environmental issues. They may also be able to seek guidance from local authorities or government agencies that are responsible for waste management and recycling policies.","['', ' Environment Act 2021, Section 57 (inserting Section 45AZB into the Environmental Protection Act 1990)\r\n', ' Environmental Protection Act 1990, Section 45AZB (as inserted by the Environment Act 2021)']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations, which apply to England, set a long-term target in relation to the reduction of residual waste, which is within the priority area of resource efficiency and waste reduction under section 1 of the Environment Act 2021 (c.30). The Regulations specify the standard to be achieved in respect of the target and the date by which it must be achieved.
+Regulation 2 makes provision in respect of a long-term target to ensure that the total mass of residual waste per head of population in England does not exceed 287 kilograms by 31st December 2042. Regulation 3 makes provision in relation to how the target is to be measured. Regulation 4 provides that the reporting date for the target is 31st January 2044. Regulation 5 makes provision for, amongst other things, a definition of “excluded waste”. Schedule 1 makes further provision in relation to the definition of “excluded waste”.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF, and is published with an Explanatory Memorandum alongside these Regulations on www.legislation.gov.uk.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The Environmental Targets (Residual Waste) (England) Regulations 2022.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2022/9780348242973/note', 'year': '2022'}","EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations, which apply to England, set a long-term target in relation to the reduction of residual waste, which is within the priority area of resource efficiency and waste reduction under section 1 of the Environment Act 2021 (c.30). The Regulations specify the standard to be achieved in respect of the target and the date by which it must be achieved.
+Regulation 2 makes provision in respect of a long-term target to ensure that the total mass of residual waste per head of population in England does not exceed 287 kilograms by 31st December 2042. Regulation 3 makes provision in relation to how the target is to be measured. Regulation 4 provides that the reporting date for the target is 31st January 2044. Regulation 5 makes provision for, amongst other things, a definition of “excluded waste”. Schedule 1 makes further provision in relation to the definition of “excluded waste”.
+A full impact assessment of the effect that this instrument will have on the costs of business, the voluntary sector and the public sector is available from the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF, and is published with an Explanatory Memorandum alongside these Regulations on www.legislation.gov.uk.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The Environmental Targets (Residual Waste) (England) Regulations 2023.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2023/92/note/made', 'year': '2023'}","Saving provision
+6.  Notwithstanding the coming into force of section 50(6) of the Act by virtue of regulation 2(i), which repeals sections 93 to 95 of the Environment Act 1995 as regards England, the Producer Responsibility Obligations (Packaging Waste) Regulations 2007(1) remain in force and have effect as if made under Schedules 4 and 6 to the Environment Act 2021 in so far as they apply to England.
+(1)
+S.I. 2007/871 amended by S.I. 2007/3538, 2008/1941, 2010/1159, 2849, 2011/226, 988, 1043, 2012/3082, 2013/755, 182, 1857, 2016/241,696, 738, 1146, 1154, 2018/721, 2019/188, 2020/904, 1540.","{'category': 'Exclusively or primarily applies to UK', 'country': 'UnitedKingdom', 'file': 'The Environment Act 2021 (Commencement No. 2 and Saving Provision) Regulations 2022.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2022/48/regulation/6/made', 'year': '2022'}"
+Wales,"An employee lives in Wales but works in England. They are planning to take Shared Parental Leave (SPL) following the birth of their child. They are unsure how the differences between Welsh and English regulations might affect their entitlement and whether their residence in Wales impacts their rights. Under the Shared Parental Leave Regulations 2014, what are their rights, and does their place of residence affect their entitlement? ","Under the Shared Parental Leave Regulations 2014, which are authorized by the Employment Rights Act 1996, an employee's entitlement to Shared Parental Leave (SPL) is determined by their employment status and specific eligibility criteria, irrespective of their place of residence. The regulations apply uniformly across England and Wales. To qualify for SPL, the employee must have been continuously employed by the same employer for at least 26 weeks by the end of the 15th week before the expected week of childbirth and remain employed at the start of each period of SPL taken. Additionally, their partner must have worked (employed or self-employed) for at least 26 of the 66 weeks before the expected week of childbirth and have earned an average of at least £30 per week in 13 of those weeks. These criteria are outlined in the Shared Parental Leave Regulations 2014, specifically in Part 2, Chapter 1, Regulation 6. Therefore, an employee residing in Wales and working in England is entitled to SPL, provided they meet these eligibility requirements, with their place of residence having no impact on their entitlement.","As an employee living in Wales but working in England, it's essential to understand how the differences between Welsh and English regulations might impact your entitlement to Shared Parental Leave (SPL). In this context, let's examine the amendments introduced by The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024.
+
+Firstly, under the amended Shared Parental Leave Regulations 2014, which are applicable in Wales, an employee's entitlement to SPL is determined by their individual circumstances. However, there's a crucial distinction between Welsh and English regulations: the threshold for applying the redundancy provisions during pregnancy or after the end of SPL has been extended to six weeks.
+
+For employees living in Wales but working in England, this means that they are entitled to benefits under the Welsh regulation if they meet the six-week threshold. However, it's essential to note that the UK Draft Statutory Instruments and other sources indicate that there is no difference between Welsh and English regulations regarding SPL eligibility.
+
+In this case, an employee living in Wales but working in England would be entitled to SPL if they meet the six-week threshold or have not taken maternity or adoption leave before. The key factor is their individual circumstances, rather than their place of residence. As such, your residence in Wales does not directly affect your entitlement to SPL.
+
+However, it's worth noting that employers must comply with Welsh regulations when dealing with employees based in Wales. This means that Welsh employers are required to follow the amended Shared Parental Leave Regulations 2014 and provide support to eligible employees under those regulations.
+
+To summarize:
+
+* You would be entitled to SPL if you meet the six-week threshold or have not taken maternity or adoption leave before.
+* Your residence in Wales does not directly affect your entitlement to SPL, as the eligibility criteria are based on individual circumstances rather than place of residence.
+* Welsh employers must comply with the amended regulations when dealing with employees based in Wales.
+
+If you're still unsure about how these changes apply to your specific situation or have further questions, I recommend consulting with an employment law expert or a qualified professional who can provide personalized guidance and support.","['', ' Employment Rights Act 1996:\r\n', ' Shared Parental Leave Regulations 2014']",3,False,"Amendment of the Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014
+8.  In the Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014(1), after regulation 20 insert—
+“Modifications to the Shared Parental Leave Regulations 2014 for the purposes of adoptions from overseas
+20A.  In regulation 39 (redundancy: shared parental leave), for paragraph (1B) substitute—
+“(1B) The relevant day referred to in paragraph (1A)(c) is the day after a period of 18 months beginning with the day on which the child enters Great Britain.””.
+(1)
+S.I. 2014/3092, to which there are amendments not relevant to these Regulations.","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2024/264/regulation/8/made', 'year': '2024'}","Amendment of the Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014
+8.  In the Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014(1), after regulation 20 insert—
+“Modifications to the Shared Parental Leave Regulations 2014 for the purposes of adoptions from overseas
+20A.  In regulation 39 (redundancy: shared parental leave), for paragraph (1B) substitute—
+“(1B) The relevant day referred to in paragraph (1A)(c) is the day after a period of 18 months beginning with the day on which the child enters Great Britain.””.
+(1)
+S.I. 2014/3092, to which there are amendments not relevant to these Regulations.","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024\nSuperseded by 2024 No. 264.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2024/9780348254846/regulation/8', 'year': '2024'}","EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the Maternity and Parental Leave etc. Regulations 1999 (S.I. 1999/3312), the Paternity and Adoption Leave Regulations 2002 (S.I. 2002/2788) and the Shared Parental Leave Regulations 2014 (S.I. 2014/3050). They also amend the Paternity and Adoption Leave (Adoption from Overseas) Regulations 2003 (S.I. 2003/921) and the Shared Parental Leave and Paternity and Adoption Leave (Adoptions from Overseas) Regulations 2014 (S.I. 2014/3092) to ensure equivalent provision for those adopting children from overseas.
+The amendments extend existing requirements that apply to employers when redundancy situations arise where an employee is on maternity, adoption or shared parental leave, so that those requirements can also apply during pregnancy and for a period of time after that leave has ended. For those taking shared parental leave who have not taken maternity or adoption leave, there is a six-week threshold of continuous leave that needs to be met for the requirements to apply for a period of time after shared parental leave has ended. Where the six-week threshold is not met, the requirements apply during shared parental leave.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen. A full impact assessment has been prepared in relation to the Protection from Redundancy (Pregnancy and Family Leave) Act 2023 and to which this instrument gives effect, and a copy is available at https://bills.parliament.uk/bills/3191/publications.","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2024/264/note/made', 'year': '2024'}"
+Wales,"A tenant in Wales is experiencing severe damp and mold in their rented property, which the landlord has failed to address despite repeated requests. Under the Renting Homes (Wales) Act 2016, what are the landlord's obligations regarding repairs and safety, and what actions can the tenant take to enforce these obligations?","Under the Renting Homes (Wales) Act 2016, landlords are obligated to maintain rental properties in a condition fit for human habitation. Specifically, Section 91 mandates that landlords must ensure the dwelling is fit for human habitation both at the start and throughout the duration of the tenancy. Section 92 requires landlords to keep in repair the structure and exterior of the dwelling, including drains, gutters, and external pipes, and to maintain installations for the supply of water, gas, electricity, sanitation, space heating, and heating water. If a landlord fails to address severe damp and mold despite repeated requests, the tenant should notify the landlord in writing, keeping records of all communications. If the landlord remains unresponsive, the tenant can contact the local authority's Environmental Health department, which can inspect the property and issue improvement notices. Additionally, the tenant may apply to the court for an order requiring the landlord to carry out repairs. It's advisable to seek legal advice before considering actions like withholding rent or arranging for repairs independently, as these carry legal risks.","Under the Renting Homes (Supplementary Provisions) (Wales) Regulations 2022, specifically Regulation 14, the landlord has a responsibility to maintain the rental property in a safe and habitable condition. The contract-holder (tenant) must notify the landlord as soon as reasonably practicable of any fault, defect, damage or disrepair that they believe is the landlord's responsibility.
+
+In this scenario, the tenant has already taken steps by repeatedly requesting that the landlord address the issue of severe damp and mold. However, since the landlord has failed to take action, the tenant may consider taking further action under the law.
+
+The key principle here is the concept of ""lack of care,"" defined in Section 96(3) of the Renting Homes (Wales) Act 2016. This provision holds individuals responsible for acts or omissions that demonstrate a lack of regard for others' well-being, such as failing to maintain basic safety standards.
+
+Given the severe damp and mold issues, it is likely that the landlord's failure to address this problem constitutes a breach of their obligations under the regulations. The tenant may consider escalating the issue by:
+
+1. Providing written notice: Reiterating the repeated requests made to the landlord and specifying the necessary repairs.
+2. Seeking mediation or arbitration: Utilizing a third-party service, such as the Dispute Resolution Service Wales or the Housing Ombudsman for Wales, to help resolve the dispute between the tenant and landlord.
+3. Pursuing further action through the courts: If the matter is not resolved through mediation or other means, the tenant may be able to take the landlord to court, potentially seeking damages for breach of contract and/or compensation under the Consumer Rights Act 2015.
+
+To enforce their obligations, tenants in Wales should:
+
+1. Document everything: Keep a record of all correspondence with the landlord regarding the damp and mold issue.
+2. Seek support from local authorities or housing organizations: If necessary, reach out to local authority housing departments, such as Caerphilly County Borough Council, for guidance on next steps.
+3. Review their tenancy agreement: Check if the tenancy includes any provisions related to maintenance and repairs.
+
+It is essential for tenants to stay proactive in pursuing their rights and seeking remedies from the relevant authorities to ensure a safe and healthy living environment.","['', "" Renting Homes (Wales) Act 2016, Section 91: Landlord's obligation: fitness for human habitation\r\n"", "" Renting Homes (Wales) Act 2016, Section 92: Landlord's obligation to keep dwelling in repair""]",3,False,"Repairs
+14.—(1) The contract-holder must notify the landlord as soon as reasonably practicable of any fault, defect, damage or disrepair which the contract-holder reasonably believes is the landlord’s responsibility.
+(2) Where the contract-holder reasonably believes that any fault, defect, damage or disrepair to the fixtures and fittings or items listed in any inventory is not the landlord’s responsibility, the contract-holder must, within a reasonable period of time, carry out repairs to such fixtures and fittings or other items listed in any inventory, or replace them.
+(3) The circumstances in which paragraph (2) applies include where the fault, defect, damage or disrepair has occurred wholly or mainly because of an act or omission amounting to a lack of care(1) by the contract-holder, any permitted occupier or any person visiting the dwelling.
+Commencement Information
+I1
+Reg. 14 in force at 1.12.2022, see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 5)
+(1)
+Section 96(3) of the Act defines “lack of care”.","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Renting Homes (Supplementary Provisions) (Wales) Regulations 2022.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2022/23/regulation/14', 'year': '2022'}","Repairs
+14.—(1) The contract-holder must notify the landlord as soon as reasonably practicable of any fault, defect, damage or disrepair which the contract-holder reasonably believes is the landlord’s responsibility.
+(2) Where the contract-holder reasonably believes that any fault, defect, damage or disrepair to the fixtures and fittings or items listed in any inventory is not the landlord’s responsibility, the contract-holder must, within a reasonable period of time, carry out repairs to such fixtures and fittings or other items listed in any inventory, or replace them.
+(3) The circumstances in which paragraph (2) applies include where the fault, defect, damage or disrepair has occurred wholly or mainly because of an act or omission amounting to a lack of care(1) by the contract-holder, any permitted occupier or any person visiting the dwelling.
+Commencement Information
+I1
+Reg. 14 in force at 1.12.2022, see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 5)
+(1)
+Section 96(3) of the Act defines “lack of care”.","{'category': 'Exclusively or primarily applies to Wales', 'country': 'Wales', 'file': 'The Renting Homes (Supplementary Provisions) (Wales) Regulations 2022.txt', 'legislation': 'Wales Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2022/23/regulation/14', 'year': '2022'}","Repairs
+11.—(1) The contract-holder must notify the landlord as soon as reasonably practicable of any fault, defect, damage or disrepair which the contract-holder reasonably believes is the landlord’s responsibility.
+(2) Where the contract-holder reasonably believes that any fault, defect, damage or disrepair to the fixtures and fittings or items listed in the inventory is not the landlord’s responsibility, the contract-holder must, within a reasonable period of time, carry out repairs to such fixtures and fittings or other items listed in the inventory, or replace them.
+(3) The circumstances in which paragraph (2) applies include where the fault, defect, damage or disrepair has occurred wholly or mainly because of an act or omission amounting to a lack of care(1) by the contract-holder, any permitted occupier or any person visiting the dwelling.
+Commencement Information
+I1
+Reg. 11 in force at 1.12.2022, see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 6)
+(1)
+Section 96(3) of the Act defines “lack of care”.","{'category': 'Exclusively or primarily applies to Wales', 'country': 'Wales', 'file': 'The Renting Homes (Supported Standard Contracts) (Supplementary Provisions) (Wales) Regulations 2022.txt', 'legislation': 'Wales Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2022/24/regulation/11', 'year': '2022'}"
+Wales,"A retailer in Wales is found selling alcohol below the minimum unit price set by the Public Health (Minimum Price for Alcohol) (Wales) Act 2018. They argue that discounts and promotions allow them to reduce prices. What does the Act stipulate regarding minimum alcohol pricing, and what penalties could the retailer face for non-compliance?","Under the Public Health (Minimum Price for Alcohol) (Wales) Act 2018, it is an offence for alcohol retailers in Wales to sell alcohol below the applicable minimum price, regardless of discounts or promotions. The Act defines the minimum price using the formula M × S × V, where M is the minimum unit price (set at 50p), S is the percentage strength of the alcohol, and V is the volume in litres. Non-compliance can result in enforcement actions by local authorities, including the issuance of fixed penalty notices of £200 for each offence. Therefore, retailers must adhere to the minimum pricing regulations, as discounts and promotions do not permit selling alcohol below the established minimum price.","The Public Health (Minimum Price for Alcohol) (Wales) Act 2018 sets a minimum unit price (MUP) for alcohol in Wales, which is intended to reduce consumption of cheap, high-strength drinks that contribute to excessive drinking and associated health problems.
+
+According to the Act, the Secretary of State may set a MUP by Order, which must be made by statutory instrument. The Act stipulates that:
+
+* Any person who sells or supplies alcohol in Wales for less than the prescribed price after that price has been set by an Order under this section is guilty of an offence.
+* A person guilty of an offence under subsection (2) shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale.
+
+In practice, the MUP sets a minimum price for each unit of alcohol sold. This means that even if a retailer offers discounts or promotions, they must still charge at least the prescribed minimum price per unit. The goal is to prevent retailers from selling cheap, high-strength drinks that may encourage excessive drinking and related problems.
+
+To illustrate this, let's consider an example:
+
+Suppose a retailer sells a 500ml bottle of wine for £5 in Wales. Under the MUP, the retailer must charge at least the prescribed minimum price per unit (e.g., 50p). If they sell more than one unit of alcohol (in this case, two units: 250ml and another 250ml), they must still charge a total of £1.00 (£0.50 x 2) or face penalties.
+
+It's worth noting that the Act provides exemptions for certain types of sales, such as:
+
+* Sales made by licensed premises operators (e.g., pubs, bars)
+* Sales made in bulk to licensed premises operators
+* Sales of still wine or beer
+
+However, these exemptions do not apply if the sale is also sold on a retail basis.
+
+In summary, the Public Health (Minimum Price for Alcohol) (Wales) Act 2018 sets a minimum unit price for alcohol in Wales, which retailers must adhere to. Failure to comply with the MUP can result in penalties, including fines and potential imprisonment.","['', ' Public Health (Minimum Price for Alcohol) (Wales) Act 2018']",3,False,"This Statutory Instrument corrects an error made by S.I. 2021/1342 (W. 346) and is being issued free of charge to all known recipients of that Statutory Instrument.
+WELSH STATUTORY INSTRUMENTS
+2021 No. 1354 (W. 352)
+PUBLIC HEALTH, WALES
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 16) Regulations 2021 (revoked)F1
+Made
+at 4.50 p.m. on 1 December 2021
+Coming into force
+at 8.00 p.m. on 1 December 2021
+Laid before Senedd Cymru
+2 December 2021
+F1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Regulations revoked (18.3.2022 at 4.00 a.m.) by The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315), reg. 1(2), Sch. para. 55","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 16) Regulations 2021 (revoked).txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2021/1354/introduction', 'year': '2021'}","This Statutory Instrument corrects an error made by S.I. 2021/1342 (W. 346) and is being issued free of charge to all known recipients of that Statutory Instrument.
+WELSH STATUTORY INSTRUMENTS
+2021 No. 1354 (W. 352)
+PUBLIC HEALTH, WALES
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 16) Regulations 2021 (revoked)F1
+Made
+at 4.50 p.m. on 1 December 2021
+Coming into force
+at 8.00 p.m. on 1 December 2021
+Laid before Senedd Cymru
+2 December 2021
+F1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Regulations revoked (18.3.2022 at 4.00 a.m.) by The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315), reg. 1(2), Sch. para. 55","{'category': 'Exclusively or primarily applies to Wales', 'country': 'Wales', 'file': 'The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 16) Regulations 2021 (revoked).txt', 'legislation': 'Wales Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2021/1354/introduction', 'year': '2021'}","WELSH STATUTORY INSTRUMENTS
+2020 No. 714 (W. 160)
+PUBLIC HEALTH, WALES
+The Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Amendment) Regulations 2020 (revoked)F1
+Made
+at 10.20 a.m. on 9 July 2020
+Laid before Senedd Cymru
+at 4.00 p.m. on 9 July 2020
+Coming into force
+10 July 2020
+F1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Regulations revoked (18.3.2022 at 4.00 a.m.) by The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315), reg. 1(2), Sch. para. 1","{'category': 'Exclusively or primarily applies to Wales', 'country': 'Wales', 'file': 'The Health Protection (Coronavirus, International Travel and Public Health Information to Travellers) (Wales) (Amendment) Regulations 2020.txt', 'legislation': 'Wales Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2020/714/introduction', 'year': '2020'}"
+Wales,"A homeowner in Wales wants to build a large extension to their property without applying for planning permission, arguing that it's within permitted development rights. Under the Town and Country Planning (General Permitted Development) (Wales) Order 1995 and recent amendments, what are the rules regarding extensions, and when is planning permission required?","Under the Town and Country Planning (General Permitted Development) (Wales) Order 1995, as amended, specific conditions allow certain extensions to be built without a formal planning application, known as permitted development rights. Below are the key provisions relevant to the homeowner’s question:\nRelevant Provisions for Extensions:\nVolume Limitations:\n                        * Terraced Houses or Properties on Article 1(5) Land: The cumulative volume of the extension must not exceed the volume of the original dwellinghouse by more than 50 cubic meters or 10% (whichever is greater).\n                        * Other Houses: The cumulative volume must not exceed 70 cubic meters or 15% (whichever is greater).\n                        * Absolute Limit: In all cases, the increase must not exceed 115 cubic meters.\nHeight Restrictions:\n                        * The height of the extension must not exceed the highest part of the existing roof.\n                        * For properties with a flat roof, the extension must not be taller than the height of the original dwellinghouse.\nProximity to Boundaries:\n                        * No part of the extension should be nearer to any highway than the nearest part of the original dwellinghouse unless the extension is at least 20 meters from the highway.\nDesignated Areas:\n                        * Properties in designated areas such as conservation areas, National Parks, or Areas of Outstanding Natural Beauty have more restricted permitted development rights, potentially requiring formal planning permission even for smaller extensions.\nImportant Considerations:\n                        * Amendments: The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Orders 2014 and 2019 introduce specific changes and clarifications but do not fundamentally alter the provisions related to standard extensions under Schedule 2, Part 1. The 2014 amendment refines some criteria for residential projects, while the 2019 amendment includes updates relevant to designated areas and certain types of land use.\n                        * Verification with Authorities: Due to potential nuances or recent legislative changes that could affect individual cases, consulting the local planning authority or a professional planner is crucial to confirm compliance with current regulations.","Based on the provided documents, including the Town and Country Planning (General Permitted Development) (Amendment) (No. 2) (Wales) Order 2020, we can explore the rules regarding permitted development rights for extensions in Wales.
+
+The Town and Country Planning (General Permitted Development) (Amendment) (No. 2) (Wales) Order 2020 amended Schedule 2 to the Town and Country Planning (General Permitted Development) Order 1995. This change inserted a new Part 3A, which permits certain development in Wales for public health emergency purposes.
+
+Specifically, Article 2 of this Order added Part 3A, allowing changes of use for buildings or land to Class C2 (Residential institutions) or Class D1 (Non-residential institutions). The permitted development is subject to conditions and limitations outlined in the new Part 3A.
+
+However, there's an important distinction between temporary and permanent extensions. Temporary buildings and structures are covered under Part 3A, which was specifically introduced for public health emergency purposes. This means that temporary changes of use or provision of temporary buildings may be permitted without needing planning permission, but this would only apply to structures related to a public health emergency.
+
+For non-temporary extensions, the rules regarding permitted development rights need to be considered under the original Town and Country Planning (General Permitted Development) Order 1995. In general, certain development is exempt from the requirement for planning permission, such as internal alterations of buildings or the provision of outbuildings.
+
+However, it's essential to note that extensions, especially those significantly altering the existing structure or character of a property, might still be subject to permitted development rights under Schedule 2. To confirm whether an extension qualifies as permitted development or requires planning permission, one must assess the specific conditions and limitations outlined in the relevant legislation.
+
+In general, for a homeowner in Wales seeking to build a large extension without applying for planning permission, it is recommended that they:
+
+1. Review the exact location of their property on the Ordnance Survey mapping system to determine if it falls within any Conservation Areas or areas of Outstanding Natural Beauty (AONBs) which may require further consultation with local authorities.
+2. Check whether their proposed extension meets specific conditions outlined in Schedule 2 of the original Order, such as alterations to external walls and floors or changes to roof pitches. If these conditions apply, then planning permission might not be required.
+3. Consider applying for 'Permitted Development' under the Town and Country Planning (General Permitted Development) (Amendment) (No. 2) (Wales) Order 2020 Part 3A for temporary public health emergency purposes.
+
+To clarify whether an extension falls into permitted development or requires planning permission, the homeowner should consult with their local planning authority in Wales and provide as much detailed information about the proposed project as possible.","['', ' The Town and Country Planning (General Permitted Development) Order 1995, Schedule 2, Part 1\r\n', ' The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2014\r\n', ' The Town and Country Planning (General Permitted Development) (Amendment) (Wales) Order 2019']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the Town and Country Planning (General Permitted Development) Order 1995 (“the GPDO”).
+Article 3 of, and Schedule 2 to, the GPDO confer permitted development rights in respect of certain development. Where such rights are conferred, an application for planning permission is not required.
+Article 2 of this Order amends Schedule 2 to the GPDO by inserting a new Part 3A (Temporary Buildings and Changes of Use for Public Health Emergency Purposes) to permit certain development in Wales for the purposes of preventing, controlling or mitigating the effects of, or taking other action in connection with a public health emergency in the United Kingdom.
+The development permitted is the change of use of a building or land to Class C2 (Residential institutions) or Class D1 (Non-residential institutions) of the Town and Country Planning (Use Classes) Order 1987, and the provision of buildings or other structures.
+The permitted development is subject to conditions and limitations which are also set out in the new Part 3A.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to this Order. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with this Order.","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Town and Country Planning (General Permitted Development) (Amendment) (No. 2) (Wales) Order 2020.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2020/420/note/made', 'year': '2020'}","EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order amends the Town and Country Planning (General Permitted Development) Order 1995 (“the GPDO”).
+Article 3 of, and Schedule 2 to, the GPDO confer permitted development rights in respect of certain development. Where such rights are conferred, an application for planning permission is not required.
+Article 2 of this Order amends Schedule 2 to the GPDO by inserting a new Part 3A (Temporary Buildings and Changes of Use for Public Health Emergency Purposes) to permit certain development in Wales for the purposes of preventing, controlling or mitigating the effects of, or taking other action in connection with a public health emergency in the United Kingdom.
+The development permitted is the change of use of a building or land to Class C2 (Residential institutions) or Class D1 (Non-residential institutions) of the Town and Country Planning (Use Classes) Order 1987, and the provision of buildings or other structures.
+The permitted development is subject to conditions and limitations which are also set out in the new Part 3A.
+The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact Assessments was considered in relation to this Order. As a result, it was not considered necessary to carry out a regulatory impact assessment as to the likely costs and benefits of complying with this Order.","{'category': 'Exclusively or primarily applies to Wales', 'country': 'Wales', 'file': 'The Town and Country Planning (General Permitted Development) (Amendment) (No. 2) (Wales) Order 2020.txt', 'legislation': 'Wales Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2020/420/note/made', 'year': '2020'}","136
+Power of planning authority to acquire building by agreement
+(1)
+A planning authority may acquire by agreement—
+(a)
+any building wholly or mainly in Wales that it considers to be of special architectural or historic interest, and
+(b)
+any land in respect of which the conditions in subsection (2) are met.
+(2)
+The conditions are that—
+(a)
+the land includes, adjoins or is adjacent to the building, and
+(b)
+the planning authority considers that the land is required—
+(i)
+for preserving the building or its amenities,
+(ii)
+for providing or facilitating access to it, or
+(iii)
+for its proper control or management.
+(3)
+Part 1 of the Compulsory Purchase Act 1965 (c. 56) applies (so far as relevant) to an acquisition under this section, other than sections 4 to 8, section 10 and section 31 of that Act.
+(4)
+References in that Part to the execution of the works are to be read in relation to an acquisition under this section as including the carrying out of building or maintenance work authorised by section 203 of the Housing and Planning Act 2016 (c. 22) (power to override easements and other rights).
+Commencement Information
+I1
+S. 136 not in force at Royal Assent, see s. 212(2)
+I2
+S. 136 in force at 4.11.2024 by S.I. 2024/860, art. 3(b)","{'category': 'Exclusively or primarily applies to Wales', 'country': 'Wales', 'file': 'Historic Environment (Wales) Act 2023.txt', 'legislation': 'Acts of Senedd Cymru', 'url': 'https://www.legislation.gov.uk/asc/2023/3/section/136', 'year': '2023'}"
+Wales,"A parent in Wales is seeking additional learning support for their child, who has been diagnosed with special educational needs (SEN). How does the Additional Learning Needs and Education Tribunal (Wales) Act 2018 protect the child’s right to education, and what steps should the parent take to ensure their child receives the necessary support?","The Additional Learning Needs and Education Tribunal (Wales) Act 2018 provides a strong legal framework to protect the rights of children with special educational needs (SEN) in Wales, ensuring they receive appropriate education and support. Here's how the Act safeguards these rights and the steps parents should take:\nHow the Act Protects the Child’s Right to Education\n                           * Definition of Additional Learning Needs (ALN) (Section 2): The Act defines ALN as a learning difficulty or disability that requires additional learning provision. This ensures children who face significantly greater learning challenges than their peers or have disabilities affecting their use of educational facilities are identified and supported.\n                           * Individual Development Plans (IDPs) (Section 10): The Act mandates the creation of IDPs for children with ALN. These comprehensive, tailored plans detail the specific support required and are maintained by local authorities or educational institutions, guaranteeing that each child's unique needs are met.\n                           * Duties of Local Authorities and Schools (Sections 11 and 14): Local authorities and the governing bodies of maintained schools have a duty to identify children with ALN and make appropriate provisions. They must review these provisions regularly to ensure their effectiveness and adapt them as needed.\n                           * Participation and Rights (Section 6): The Act emphasizes involving children and their parents in the decision-making process regarding ALN support. Authorities must also consider the United Nations Convention on the Rights of the Child and the Convention on the Rights of Persons with Disabilities, reinforcing a rights-based approach.\n                           * Access to Information and Advice (Section 9): The Act requires local authorities to provide parents with information and advice on ALN and the available support, empowering them to make informed decisions.\n                           * Dispute Resolution and Appeals (Sections 68 and 70): The Act establishes clear mechanisms for resolving disagreements. If parents are unsatisfied with the IDP or support provided, they can use local dispute resolution services. Additionally, they have the right to appeal decisions to the Education Tribunal for Wales.\nSteps Parents Should Take to Ensure Their Child Receives Support\n                           * Request an Assessment: Parents can request that the local authority assess their child for ALN. Although the Act does not explicitly state this in Section 11, it mandates that authorities and schools must decide if a child has ALN when concerns are raised.\n                           * Engage in the IDP Process: Actively participate in the development and review of the IDP. Ensure the IDP reflects the child's current needs and advocate for revisions as needed.\n                           * Utilize Available Resources: Make use of the information and advice provided by local authorities as mandated in Section 9. This will help parents understand their rights and the provisions their child is entitled to.\n                           * Address Disagreements: If there are concerns about the IDP or the support provided, use the dispute resolution mechanisms outlined in Section 68. For unresolved issues, parents can appeal to the Education Tribunal for Wales as outlined in Section 70.\n                           * Regularly Review the IDP: Ensure that the IDP is reviewed regularly, as mandated by the Act, to keep it aligned with the child’s evolving educational needs.\nThis framework ensures that children with SEN in Wales receive the educational support they require, and parents are empowered to advocate effectively for their child’s rights.","The Additional Learning Needs and Education Tribunal (Wales) Act 2018 is a significant piece of legislation that provides a statutory framework for supporting children and young people with additional learning needs in Wales. This Act aims to protect the rights of children and young people with special educational needs, ensuring they receive an education that meets their individual needs.
+
+One of the key ways this Act protects the child's right to education is by providing a process for identifying and implementing Additional Learning Needs Plans (ALNs). An ALN Plan is a tailored plan that outlines the specific learning requirements of the child, which can include extra support in school, adaptations to the physical environment, or alternative provision arrangements. The Act ensures that this process is followed systematically, and parents play an essential role in identifying their child's needs.
+
+The Act also introduces the concept of ""Education, Health and Care (EHC) Plans"" for children who are not yet at compulsory school age. An EHC Plan outlines the child's educational, health, and care requirements, including support services that will be provided to ensure they receive an education that meets their individual needs.
+
+To ensure their child receives necessary support under this Act, a parent should:
+
+1. **Work with a Local Authority**: The first step is to work closely with the local authority (LA) responsible for providing education in your area. They will assess your child's needs and develop an ALN Plan or EHC Plan.
+2. **Seek Assessment**: Request an assessment by the LA, which can be done through a request letter or meeting. During this process, the LA will gather information about your child's needs and consider your concerns as a parent.
+3. **Request Additional Learning Support**: As part of the assessment, you can request additional learning support that aligns with your child's ALN Plan or EHC Plan.
+4. **Appeal if Necessary**: If you disagree with the LA's decision on supporting your child, you have the right to appeal. The appeal process will involve a hearing before an Education, Health and Care Tribunal, which is independent of the local authority.
+
+In summary, the Additional Learning Needs and Education Tribunal (Wales) Act 2018 provides a comprehensive framework for ensuring children and young people with special educational needs receive the necessary support to access education. By working closely with the local authority and following the assessment process, parents can advocate effectively on behalf of their child and ensure they receive an education that meets their individual needs.
+
+If you have any further questions or need additional guidance, I'm here to help.","['', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 2: Definition of Additional Learning Needs (ALN)\r\n', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 6: Participation and Rights\r\n', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 9: Access to Information and Advice\r\n', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 10: Individual Development Plans (IDPs)\r\n', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 11: Duties to Decide: Maintained Schools and Further Education Institutions\r\n', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 14: Duties of Local Authorities and Schools\r\n', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 68: Dispute Resolution Mechanisms\r\n', ' Additional Learning Needs and Education Tribunal (Wales) Act 2018, Section 70: Appeals to the Education Tribunal for Wales']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order brings into force provisions of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (“the Act”).
+The Act establishes a statutory framework for supporting children and young people with additional learning needs. This replaces the legislation surrounding special educational needs and the assessment of children and young people with learning difficulties.
+The provisions listed in article 3 come into force on 1 September 2022 in relation to those who are of compulsory school age and below, who have certain identified special educational needs (but not a statement) and who are educated at an independent school or are home educated (article 2).","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2022/894/note', 'year': '2022'}","EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order brings into force provisions of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (“the Act”).
+The Act establishes a statutory framework for supporting children and young people with additional learning needs. This replaces the legislation surrounding special educational needs and the assessment of children and young people with learning difficulties.
+The provisions listed in article 3 come into force on 1 September 2022 in relation to those who are of compulsory school age and below, who have certain identified special educational needs (but not a statement) and who are educated at an independent school or are home educated (article 2).","{'category': 'Exclusively or primarily applies to Wales', 'country': 'Wales', 'file': 'The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022.txt', 'legislation': 'Wales Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2022/894/note', 'year': '2022'}","EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order brings into force provisions of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (“the Act”).
+The Act establishes a statutory framework for supporting children and young people with additional learning needs. This replaces the legislation surrounding special educational needs and the assessment of children and young people with learning difficulties.
+The provisions listed in article 2 come into force on 1 September 2022 in relation to persons not over compulsory school age who are involved in the statutory framework of the Children and Families Act 2014 (for example, an education, health and care plan is being prepared or maintained in relation to the person).","{'category': 'May contain legislation that applies to Wales', 'country': 'Wales', 'file': 'The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 15) Order 2022.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/wsi/2022/898/note', 'year': '2022'}"
+Scotland,"An employee in Scotland has recently lost a child and is unsure of their entitlement to bereavement leave. Under the Parental Bereavement (Leave and Pay) Act 2018, what are their rights, and what obligations does the employer have?","Under the Parental Bereavement (Leave and Pay) Act 2018, incorporated into the Employment Rights Act 1996 and the Social Security Contributions and Benefits Act 1992, employees in Scotland who have lost a child are entitled to specific rights, and employers have corresponding obligations. Section 80EA of the Employment Rights Act 1996 (as amended) grants eligible employees the right to take at least two weeks of parental bereavement leave. This leave must be taken within 56 days from the date of the child’s death and applies to the death of a child under 18. Section 80EE extends these rights to cases involving stillbirths after 24 weeks of pregnancy. Employers are obligated to provide this leave, ensuring that eligible employees can take time off without facing any detriment or dismissal related to their leave request. For statutory parental bereavement pay, Section 171ZZ6 of the Social Security Contributions and Benefits Act 1992 (as amended) outlines the entitlement, specifying that the employee must meet certain conditions such as a continuous employment period of at least 26 weeks ending with the ""relevant week"" (the week immediately before the child’s death) and minimum earnings meeting the lower earnings limit. Section 171ZZ7 adds that employees must give notice to their employer about the weeks for which they seek parental bereavement pay, and employers may require this notice in writing. Regulations under this section may also stipulate further requirements, such as providing evidence of entitlement or conditions for determining continuous employment. In addition to these primary sections, reviewing supporting regulations linked to the Parental Bereavement (Leave and Pay) Act 2018 and related guidance is essential for comprehensive compliance. Regulations detail how leave is to be taken, how statutory pay is processed, and additional procedural requirements for both employees and employers.","The Employee in Scotland has the right to bereavement leave under the Parental Bereavement (Leave and Pay) Act 2018. The employee is entitled to take a statutory paid bereavement leave of up to one week from the date of death, or three months, whichever is less.
+
+To be eligible for bereavement leave, the employee must satisfy one of the conditions in paragraph (2)(a) to (f) of the Parental Bereavement (Leave and Pay) Regulations 2019. The relevant obligations for the employer include:
+
+1. Providing a minimum amount of statutory pay during the period of bereavement leave.
+2. Notifying the employee about their entitlement to bereavement leave.
+3. Ensuring that the employee is paid in accordance with the Parental Bereavement (Leave and Pay) Act 2018.
+
+The employer must also ensure that the employee's employment contract does not contain any provisions that would prevent or limit the employee's entitlement to bereavement leave.","['', ' 1. Employment Rights Act 1996 (as amended by the Parental Bereavement (Leave and Pay) Act 2018)\r\n', ' 2. Social Security Contributions and Benefits Act 1992 (as amended by the Parental Bereavement (Leave and Pay) Act 2018)']",3,False,"Entitlement to parental bereavement leave
+4.—(1) An employee is entitled to be absent from work to take parental bereavement leave if he or she—
+(a)
+satisfies one of the conditions specified in paragraph (2), and
+(b)
+complies with the notice requirements in regulation 6.
+(2) The conditions referred to in paragraph (1) are that, at the date of C’s death, the employee is—
+(a)
+C’s parent;
+(b)
+C’s natural parent and named in an order made pursuant to section 51A(2)(a) of the Adoption and Children Act 2002(1) or section 11(3)(aa) of the Children (Scotland) Act 1995(2), provided that such an order has not subsequently been revoked or discharged;
+(c)
+a person with whom C has been placed for adoption, for so long as that placement has not been disrupted, as mentioned in paragraph (3);
+(d)
+an adopter—
+(i)
+with whom C was living, following C’s entry into Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of C for adoption under the law of any part of the United Kingdom, and
+(ii)
+who has received official notification in respect of C;
+(e)
+an intended parent of C;
+(f)
+C’s parent in fact; or
+(g)
+the partner of P.
+(3) For the purposes of paragraph (2)(c), a placement has been disrupted—
+(a)
+when C has been returned under sections 31 to 35 of the Adoption and Children Act 2002(3),
+(b)
+in Scotland, when C has been returned to the adoption agency, adoption society or nominated person in accordance with section 25(6) of the Adoption and Children (Scotland) Act 2007, or
+(c)
+when C’s placement—
+(i)
+with a local authority foster parent who is also a prospective adopter in accordance with section 22C of the Children Act 1989 following consideration in accordance with subsection (9B)(c) of that section, or
+(ii)
+with a prospective adopter in accordance with section 81 of the Social Services and Well-being (Wales) Act 2014,
+has been terminated.
+(4) Subject to paragraph (6), a person is C’s parent in fact if that person, for a continuous period of at least four weeks ending with the day on which C dies—
+(a)
+lived with C in the person’s own home, and
+(b)
+had day to day responsibility for C’s care.
+(5) For the purposes of the continuous period mentioned in paragraph (4), no account is to be taken of any absences of a temporary or intermittent nature.
+(6) A person is not to be regarded as C’s parent in fact if—
+(a)
+C is in the care of that person in premises in which any parent of C’s, or any person who is not a parent of C’s but who has responsibility for C, is living, or
+(b)
+that person was or is entitled to receive remuneration, whether by way of wages or otherwise, in respect of the care of C.
+(7) A person has responsibility for C, for the purposes of paragraph (6)(a), if the person—
+(a)
+has parental responsibility, within the meaning of section 3 of the Children Act 1989, or
+(b)
+in Scotland, has parental responsibilities or parental rights, within the meaning of sections 1 and 2 of the Children (Scotland) Act 1995(4).
+(8) For the purposes of paragraph (6)(b), the following payments are not to be regarded as remuneration—
+(a)
+any fee or allowance paid by a local authority to a foster parent;
+(b)
+payments wholly or mainly intended to reimburse the person for expenses which arise from, or are expected to arise from, the person’s care of C;
+(c)
+amounts received pursuant to the terms of a will, trust or similar instrument which makes provision in respect of C’s care.
+(9) In this regulation—
+(a)
+“P” means any person who satisfies one of the conditions in paragraph (2)(a) to (f);
+(b)
+“partner” means a person (whether of a different sex or the same sex) who lives with C and P in an enduring family relationship but is not a relative of P of a kind specified in sub-paragraph (c);
+(c)
+the relatives of P referred to in sub-paragraph (b) are P’s parent, grandparent, sister, brother, aunt or uncle;
+(d)
+references to relationships in sub-paragraph (c)—
+(i)
+are to relationships of the full blood or half blood or, in the case of an adopted person, such of those relationships as would exist but for the adoption, and
+(ii)
+include the relationship of a child with his adoptive, or former adoptive, parents,
+but do not include any other adoptive relationships.
+(10) Where an employee is eligible to take parental bereavement leave under this regulation as a result of the death of more than one child, the employee is entitled to parental bereavement leave in respect of each child.
+(1)
+Section 51A was inserted by the Children and Families Act 2014, section 9.
+(2)
+Section 11(3)(aa) was inserted by the Adoption and Children (Scotland) Act 2007, section 107.
+(3)
+Sections 32, 34 and 35 were amended by the Children and Families Act 2014, Schedule 2, Part 2, paragraphs 63 and 64 and by S.I. 2016/413.
+(4)
+1995 c. 36; sections 1 and 2 were amended by the Human Fertilisation and Embryology Act 2008, Schedule 6, Part 2, paragraphs 48 and 49.","{'category': 'May contain legislation that applies to Scotland', 'country': 'Scotland', 'file': 'The Parental Bereavement Leave Regulations 2020.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2020/249/regulation/4/made', 'year': '2020'}","Entitlement to parental bereavement leave
+4.—(1) An employee is entitled to be absent from work to take parental bereavement leave if he or she—
+(a)
+satisfies one of the conditions specified in paragraph (2), and
+(b)
+complies with the notice requirements in regulation 6.
+(2) The conditions referred to in paragraph (1) are that, at the date of C’s death, the employee is—
+(a)
+C’s parent;
+(b)
+C’s natural parent and named in an order made pursuant to section 51A(2)(a) of the Adoption and Children Act 2002(1) or section 11(3)(aa) of the Children (Scotland) Act 1995(2), provided that such an order has not subsequently been revoked or discharged;
+(c)
+a person with whom C has been placed for adoption, for so long as that placement has not been disrupted, as mentioned in paragraph (3);
+(d)
+an adopter—
+(i)
+with whom C was living, following C’s entry into Great Britain from outside the United Kingdom in connection with or for the purposes of adoption which does not involve the placement of C for adoption under the law of any part of the United Kingdom, and
+(ii)
+who has received official notification in respect of C;
+(e)
+an intended parent of C;
+(f)
+C’s parent in fact; or
+(g)
+the partner of P.
+(3) For the purposes of paragraph (2)(c), a placement has been disrupted—
+(a)
+when C has been returned under sections 31 to 35 of the Adoption and Children Act 2002(3),
+(b)
+in Scotland, when C has been returned to the adoption agency, adoption society or nominated person in accordance with section 25(6) of the Adoption and Children (Scotland) Act 2007, or
+(c)
+when C’s placement—
+(i)
+with a local authority foster parent who is also a prospective adopter in accordance with section 22C of the Children Act 1989 following consideration in accordance with subsection (9B)(c) of that section, or
+(ii)
+with a prospective adopter in accordance with section 81 of the Social Services and Well-being (Wales) Act 2014,
+has been terminated.
+(4) Subject to paragraph (6), a person is C’s parent in fact if that person, for a continuous period of at least four weeks ending with the day on which C dies—
+(a)
+lived with C in the person’s own home, and
+(b)
+had day to day responsibility for C’s care.
+(5) For the purposes of the continuous period mentioned in paragraph (4), no account is to be taken of any absences of a temporary or intermittent nature.
+(6) A person is not to be regarded as C’s parent in fact if—
+(a)
+C is in the care of that person in premises in which any parent of C’s, or any person who is not a parent of C’s but who has responsibility for C, is living, or
+(b)
+that person was or is entitled to receive remuneration, whether by way of wages or otherwise, in respect of the care of C.
+(7) A person has responsibility for C, for the purposes of paragraph (6)(a), if the person—
+(a)
+has parental responsibility, within the meaning of section 3 of the Children Act 1989, or
+(b)
+in Scotland, has parental responsibilities or parental rights, within the meaning of sections 1 and 2 of the Children (Scotland) Act 1995(4).
+(8) For the purposes of paragraph (6)(b), the following payments are not to be regarded as remuneration—
+(a)
+any fee or allowance paid by a local authority to a foster parent;
+(b)
+payments wholly or mainly intended to reimburse the person for expenses which arise from, or are expected to arise from, the person’s care of C;
+(c)
+amounts received pursuant to the terms of a will, trust or similar instrument which makes provision in respect of C’s care.
+(9) In this regulation—
+(a)
+“P” means any person who satisfies one of the conditions in paragraph (2)(a) to (f);
+(b)
+“partner” means a person (whether of a different sex or the same sex) who lives with C and P in an enduring family relationship but is not a relative of P of a kind specified in sub-paragraph (c);
+(c)
+the relatives of P referred to in sub-paragraph (b) are P’s parent, grandparent, sister, brother, aunt or uncle;
+(d)
+references to relationships in sub-paragraph (c)—
+(i)
+are to relationships of the full blood or half blood or, in the case of an adopted person, such of those relationships as would exist but for the adoption, and
+(ii)
+include the relationship of a child with his adoptive, or former adoptive, parents,
+but do not include any other adoptive relationships.
+(10) Where an employee is eligible to take parental bereavement leave under this regulation as a result of the death of more than one child, the employee is entitled to parental bereavement leave in respect of each child.
+(1)
+Section 51A was inserted by the Children and Families Act 2014, section 9.
+(2)
+Section 11(3)(aa) was inserted by the Adoption and Children (Scotland) Act 2007, section 107.
+(3)
+Sections 32, 34 and 35 were amended by the Children and Families Act 2014, Schedule 2, Part 2, paragraphs 63 and 64 and by S.I. 2016/413.
+(4)
+1995 c. 36; sections 1 and 2 were amended by the Human Fertilisation and Embryology Act 2008, Schedule 6, Part 2, paragraphs 48 and 49.","{'category': 'May contain legislation that applies to Scotland', 'country': 'Scotland', 'file': 'The Parental Bereavement Leave Regulations 2020\nSuperseded by 2020 No. 249.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2020/9780111192245/regulation/4', 'year': '2020'}","EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make amendments to secondary legislation in consequence of Regulations made under the Employment Rights Act 1996 and Social Security Contributions and Benefits Act 1992, which make provision for entitlements to bereavement leave and pay for parents following the death of a child.
+These Regulations are part of a package of legislative measures and the relevant impact assessment is the Parental Bereavement (Leave and Pay) Bill impact assessment which was published on 14 May 2018. A copy of that impact assessment can be obtained from the Department for Business, Energy and Industrial Strategy, Labour Market Directorate, 1 Victoria Street, London, SW1H 0ET.","{'category': 'May contain legislation that applies to Scotland', 'country': 'Scotland', 'file': 'The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020\nSuperseded by 2020 No. 354.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2020/9780111194010/note', 'year': '2020'}"
+Scotland,"A tenant in Scotland has reported significant dampness and mold in their rented flat to the landlord, who has not taken any action. Under the Housing (Scotland) Act 2006, what are the landlord's obligations, and what steps can the tenant take to enforce these obligations?","Under the Housing (Scotland) Act 2006, landlords are required to ensure that their rental properties meet the Repairing Standard, as defined in Section 13 of the Act. This includes ensuring that the property is wind and watertight, reasonably fit for human habitation, and that the structure and exterior are in a reasonable state of repair. Additionally, installations for the supply of water, gas, electricity, sanitation, heating, and hot water must be kept in proper working order. Significant dampness and mold indicate a failure to meet this standard. Under Section 14, landlords have a duty to ensure that the house meets the repairing standard at the start of the tenancy and throughout its duration. This duty requires landlords to complete any necessary repairs within a reasonable time after being notified by the tenant or otherwise becoming aware of the need for repairs. Failure to act within a reasonable timeframe constitutes a breach of this duty. If the landlord does not take action, the tenant can apply to the First-tier Tribunal under Section 22 of the Act. This section allows tenants to seek a decision from the Tribunal if the property does not meet the Repairing Standard. The Tribunal can investigate and issue a Repairing Standard Enforcement Order (RSEO) under Section 24, compelling the landlord to carry out the required repairs within a specified timeframe. If the landlord fails to comply with the RSEO, under Section 26, the Tribunal must notify the local authority and may consider imposing a rent relief order to reduce the tenant’s rent. The Tribunal may excuse non-compliance if the landlord demonstrates an inability to comply due to a lack of necessary rights (e.g., access) or if the required work poses a danger to any person. In such cases, the Tribunal must notify the local authority of its findings. The Housing (Scotland) Act 2006 provides tenants with clear mechanisms to address substandard housing conditions and enforce their rights against landlords who fail to fulfill their obligations. These regulations govern the procedures of the First-tier Tribunal for Scotland Housing and Property Chamber, which is responsible for handling cases brought under the Housing (Scotland) Act 2006, including applications related to the Repairing Standard. The regulations ensure that disputes between tenants and landlords are resolved fairly and efficiently. They outline the rules for submitting applications, conducting hearings, issuing decisions, and enforcing orders such as Repairing Standard Enforcement Orders (RSEOs). This procedural framework directly supports tenants in seeking remedies for landlords' failures to meet their legal obligations under the Act.","I'd be happy to help you with this question.
+
+Firstly, I need to clarify that the legislation you provided is actually from Scotland, specifically the Cost of Living (Tenant Protection) (Scotland) Act 2022, which supersedes the Housing (Scotland) Act 2006 in some aspects. However, under the Housing (Scotland) Act 2006, landlords have a duty to maintain the property and ensure it is safe for occupation.
+
+The landlord's obligations in this situation would typically be to:
+
+1. Investigate the tenant's complaint: The landlord must take reasonable steps to investigate the tenant's claim about the dampness and mold in their flat.
+2. Take remedial action: If the investigation confirms that there is a problem, the landlord must take immediate action to address it, such as cleaning up the mold or taking steps to prevent future occurrences.
+
+However, since you mentioned the Cost of Living (Tenant Protection) (Scotland) Act 2022 has specific provisions for dealing with dampness and mold, I'd like to provide more information on those. Under this legislation, if a landlord fails to take reasonable action to address a complaint about dampness or mold, they may be liable to pay compensation to the tenant.
+
+Regarding the steps the tenant can take to enforce these obligations, here are some possible options:
+
+1. Write a formal letter: The tenant could write a formal letter to the landlord outlining their concerns and requesting that remedial action be taken.
+2. Seek mediation: The tenant could try to resolve the issue through mediation with the landlord or a neutral third party, such as a housing officer.
+3. Contact the local authority: If the landlord fails to respond or take action, the tenant may need to contact the local authority (e.g., the council) for assistance and guidance.
+4. Seek court intervention: In extreme cases, if the landlord continues to neglect their duties, the tenant may need to seek a court order to compel the landlord to address the issue.
+
+It's essential to note that each situation is unique, and it's always best to consult with a qualified housing or employment lawyer for personalized advice.
+
+To further clarify any doubts, I'd like to ask: Are there any specific aspects of this scenario you'd like me to elaborate on?","['', ' Housing (Scotland) Act 2006, Section 13: The Repairing Standard\r\n', "" Housing (Scotland) Act 2006, Section 14: Landlord's Duty to Repair and Maintain\r\n"", ' Housing (Scotland) Act 2006, Section 22: Application to the First', 'tier Tribunal\r\n', ' Housing (Scotland) Act 2006, Section 24: Repairing Standard Enforcement Order (RSEO)\r\n', ' Housing (Scotland) Act 2006, Section 26: Effect of Failure to Comply with Repairing Standard Enforcement Order\r\n', ' Tribunals (Scotland) Act 2014\r\n', ' First', 'tier Tribunal for Scotland Housing and Property Chamber (Procedure) Regulations 2017 https://www.legislation.gov.Unitedkingdom/ssi/2017/328/contents/made']",3,False,"Safeguards for landlords: substantial rent arrears and financial hardship
+6
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Sch. 2 expires (1.4.2024) by Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10), s. 7(1) (as amended by S.S.I. 2023/275, regs. 1(2), 2(2)) (with savings in S.S.I. 2024/19, regs. 1(1), 3, 4)","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'Cost of Living (Tenant Protection) (Scotland) Act 2022.txt', 'legislation': 'Acts of the Scottish Parliament', 'url': 'https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/6', 'year': '2022'}","3
+Information and advice for tenants
+The Scottish Ministers must take steps to ensure that tenants affected by the provisions of Part 1 receive appropriate information, advice and support for the period during which Part 1 remains in force.
+Commencement Information
+I1
+S. 3 in force at 28.10.2022, see s. 13(1)","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'Cost of Living (Tenant Protection) (Scotland) Act 2022.txt', 'legislation': 'Acts of the Scottish Parliament', 'url': 'https://www.legislation.gov.uk/asp/2022/10/section/3', 'year': '2022'}","Safeguards for landlords: substantial rent arrears and financial hardship
+5
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F1
+Sch. 2 expires (1.4.2024) by Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10), s. 7(1) (as amended by S.S.I. 2023/275, regs. 1(2), 2(2)) (with savings in S.S.I. 2024/19, regs. 1(1), 3, 4)","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'Cost of Living (Tenant Protection) (Scotland) Act 2022.txt', 'legislation': 'Acts of the Scottish Parliament', 'url': 'https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/5', 'year': '2022'}"
+Scotland,"An individual in Scotland is experiencing domestic abuse from their partner with whom they share a tenancy. They wish to remove the abuser from the home but are unsure of their rights. Under the Domestic Abuse (Protection) (Scotland) Act 2021, what legal protections are available, and what steps should they take?","Individuals experiencing domestic abuse in Scotland can seek protection through several legal mechanisms. Under the Protection from Harassment Act 1997, they can apply for a Non-Harassment Order, which prohibits the abuser from engaging in threatening or harassing behavior. Additionally, the Matrimonial Homes (Family Protection) (Scotland) Act 1981 allows for an Exclusion Order to remove the abuser from the shared home and prevent them from re-entering. This Act applies not only to married couples but also to cohabitants. The individual should contact the police to report the abuse, as domestic abuse is a criminal offense under the Domestic Abuse (Scotland) Act 2018, which recognizes controlling behavior as abuse. Seeking legal advice from a solicitor experienced in domestic abuse cases is advisable to assist with applications for protective orders, and engaging with support services such as Scottish Women's Aid can provide additional assistance and guidance.","I'd be happy to help you understand your rights and options under the Domestic Abuse (Protection) (Scotland) Act 2021.
+
+Under this Act, an individual experiencing domestic abuse from their partner can apply for a domestic abuse protection notice or order. This notice/order is intended to protect the victim from further abusive behaviour by their partner or ex-partner.
+
+To initiate the process, you would need to contact your local sheriff court and provide evidence of the domestic abuse you're experiencing. You'll need to demonstrate that the abuse is ongoing and has been taking place at your shared address with your partner.
+
+Once you've submitted your application, a Protection Notice will be issued, which requires your partner to stop the abusive behaviour immediately. This notice can also lead to the issue of a Protection Order, which is more comprehensive and can include specific requirements for your partner's behaviour, such as not entering or contacting you.
+
+Regarding the tenancy, under section 5 of the Act, if an individual applies for a Protection Order due to the abuse being perpetrated by their partner in relation to the domestic address shared with them, the court may grant an order terminating the Scottish secure tenancy. This means that your partner would no longer be able to occupy the property or claim rent.
+
+It's worth noting that the protection notice and order can provide you with significant legal protections, including the ability to take action against your partner if they fail to comply.
+
+In terms of next steps, I would recommend the following:
+
+1. **Contact the Sheriff Court**: Reach out to your local sheriff court as soon as possible to report the domestic abuse and begin the application process.
+2. **Gather evidence**: Collect any relevant documentation or records that demonstrate the ongoing nature of the abusive behaviour.
+3. **Seek support**: Consider seeking help from a domestic abuse support service, such as Scottish Women's Aid or the National Domestic Abuse Helpline (0800 273 6800).
+4. **Consult with a solicitor**: If you're unsure about any aspect of the process, consider consulting with a solicitor who specializes in family law and domestic abuse cases.
+
+By following these steps, you can start to rebuild your safety and stability while ensuring that your rights as a tenant are protected under the Domestic Abuse (Protection) (Scotland) Act 2021.","['', ' Protection from Harassment Act 1997\r\n', ' Matrimonial Homes (Family Protection) (Scotland) Act 1981\r\n', ' Domestic Abuse (Scotland) Act 2018']",3,False,"Domestic Abuse (Protection) (Scotland) Act 2021
+2021 asp 16
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 17th March 2021 and received Royal Assent on 5th May 2021
+An Act of the Scottish Parliament to make provision for domestic abuse protection notices and orders for the purpose of protecting a person from abusive behaviour by the person's partner or ex-partner; and to make provision for the termination of Scottish secure tenancies in cases involving behaviour by a tenant which is abusive of the tenant's partner or ex-partner.","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'Domestic Abuse (Protection) (Scotland) Act 2021.txt', 'legislation': 'Acts of the Scottish Parliament', 'url': 'https://www.legislation.gov.uk/asp/2021/16/introduction', 'year': '2021'}","SCOTTISH STATUTORY INSTRUMENTS
+2021 No. 239 (C. 14)
+CRIMINAL LAW
+The Domestic Abuse Act 2021 (Commencement) (Scotland) Regulations 2021
+Made
+11th June 2021
+Laid before the Scottish Parliament
+15th June 2021
+Coming into force
+29th June 2021
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 90(3) of the Domestic Abuse Act 2021(1).
+(1)
+2021 c.17.","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'The Domestic Abuse Act 2021 (Commencement) (Scotland) Regulations 2021.txt', 'legislation': 'Scottish Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ssi/2021/239/introduction/made', 'year': '2021'}","Prospective
+25
+An offence under section 1 of the Domestic Abuse (Scotland) Act 2018 (abusive behaviour towards partner or ex-partner).","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'Disclosure (Scotland) Act 2020.txt', 'legislation': 'Acts of the Scottish Parliament', 'url': 'https://www.legislation.gov.uk/asp/2020/13/schedule/1/paragraph/25', 'year': '2020'}"
+Scotland,"A retailer in Scotland is considering selling alcohol below the minimum unit price due to competitive pressures. They want to know the legal implications. Under the Alcohol (Minimum Pricing) (Scotland) Act 2012, what are the retailer's obligations, and what penalties could they face for non-compliance? ","Under the Alcohol (Minimum Pricing) (Scotland) Act 2012, which amends the Licensing (Scotland) Act 2005, retailers in Scotland are required to sell alcohol at or above a minimum unit price (MPU) set by the Scottish Ministers. This rule applies to all licensed premises, including shops, bars, restaurants, and temporary events with occasional licenses. The minimum price condition is detailed in Schedule 3, Paragraph 6A for premises licenses and Schedule 4, Paragraph 5A for occasional licenses. Alcohol must be sold at a minimum price calculated by multiplying the MPU by the strength and volume of the alcohol. As amended by The Alcohol (Minimum Price per Unit) (Scotland) Order 2018, the current MPU is set at 65 pence per unit. Retailers must comply with this minimum price, and selling alcohol below this threshold constitutes a breach of licensing conditions. If a retailer fails to meet the minimum pricing requirement, Section 36 of the Licensing (Scotland) Act 2005 allows the licensing board to review the premises license and impose penalties as needed. Following a review, the board may suspend the license temporarily, revoke the license entirely, or modify the license conditions to enforce compliance. These penalties aim to uphold public health and ensure responsible alcohol sales.","In Scotland, under the Alcohol (Minimum Pricing) (Scotland) Act 2012, a retailer who sells alcohol below the minimum unit price is committing an offense. The retailer's primary obligation is to ensure that all alcohol sold on their premises meets or exceeds the minimum unit price set by the Scottish Government.
+
+The minimum unit price of 50p per 10ml for beer and wine, and 8g of pure alcohol for spirits, was introduced in 2018. However, as of September 2024, the minimum unit price has been increased to 65p per 10ml for beer and wine, and 8g of pure alcohol for spirits.
+
+Retailers who fail to comply with the minimum unit price regulations can face severe penalties, including:
+
+1. Offenses under Section 20 of the Act: A retailer committing an offense under Section 20 of the Act may be liable on summary conviction to a fine not exceeding £50,000 or, in Scotland, a Scottish imprisonment for a term not exceeding six months.
+2. Revocation of Premises Licences: The Licensing Board can revoke a premises licence if it is satisfied that the license holder has breached the minimum unit price regulations.
+3. Cancellation of Temporary Event Notices (TENs): If a retailer fails to comply with the minimum unit price regulations, the Licensing Board may cancel any existing TENs for events on licensed premises.
+
+To avoid these penalties, retailers must ensure that all alcohol sold on their premises meets or exceeds the minimum unit price set by the Scottish Government. Failure to do so can result in severe consequences, including fines and license revocation.
+
+It is worth noting that the Scottish Government has prepared a full Business and Regulatory Impact Assessment (BRIA) for the Alcohol (Minimum Pricing) (Scotland) Act 2012, which provides further information on the legal implications of non-compliance with the minimum unit price regulations.","['', ' Licensing (Scotland) Act 2005, Schedule 3, Paragraph 6A ', ' Premises Licence Mandatory Conditions\r\n', ' Licensing (Scotland) Act 2005, Schedule 4, Paragraph 5A ', ' Occasional Licence Mandatory Conditions\r\n', ' The Alcohol (Minimum Price per Unit) (Scotland) Order 2018 ', ' Minimum Unit Pricing for Alcohol in Scotland\r\n', ' Licensing (Scotland) Act 2005, Section 36 ', ' Application for Review of Premises Licence:']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order is made under section 2(2) of the Alcohol (Minimum Pricing) (Scotland) Act 2012 (“the 2012 Act”). It comes into force on 30 April 2024.
+Section 1 of the 2012 Act inserted provisions into schedules 3 and 4 of the Licensing (Scotland) Act 2005, introducing a further mandatory condition of premises licences and occasional licences. The condition is that alcohol must not be sold on the premises at a price below its minimum price. These provisions are the “minimum pricing provisions”.
+Section 2(1) of the 2012 Act provides that the minimum pricing provisions expire 6 years after section 1 of the 2012 Act came fully into force unless an Order is made under section 2(2) of that Act to continue the effect of those provisions. Section 1 of the 2012 Act came fully into force on 1 May 2018. This Order continues the effect of the minimum pricing provisions.
+A full Business and Regulatory Impact Assessment has been prepared by the Scottish Government and is published on the Scottish Government website. Copies may be obtained from the Scottish Government Directorate for Population Health, St Andrew’s House, Edinburgh EH1 3DG.","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'The Alcohol (Minimum Pricing) (Scotland) Act 2012 (Continuation) Order 2024.txt', 'legislation': 'Scottish Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ssi/2024/127/note/made', 'year': '2024'}","EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order is made under section 2(2) of the Alcohol (Minimum Pricing) (Scotland) Act 2012 (“the 2012 Act”). It comes into force on 30 April 2024.
+Section 1 of the 2012 Act inserted provisions into schedules 3 and 4 of the Licensing (Scotland) Act 2005, introducing a further mandatory condition of premises licences and occasional licences. The condition is that alcohol must not be sold on the premises at a price below its minimum price. These provisions are the “minimum pricing provisions”.
+Section 2(1) of the 2012 Act provides that the minimum pricing provisions expire 6 years after section 1 of the 2012 Act came fully into force unless an Order is made under section 2(2) of that Act to continue the effect of those provisions. Section 1 of the 2012 Act came fully into force on 1 May 2018. This Order continues the effect of the minimum pricing provisions.
+A full Business and Regulatory Impact Assessment has been prepared by the Scottish Government and is published on the Scottish Government website. Copies may be obtained from the Scottish Government Directorate for Population Health, St Andrew’s House, Edinburgh EH1 3DG.","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'The Alcohol (Minimum Pricing) (Scotland) Act 2012 (Continuation) Order 2024\nSuperseded by 2024 No. 127.txt', 'legislation': 'Scottish Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/sdsi/2024/9780111059371/note', 'year': '2024'}","EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order is made under paragraph 6A(4) of schedule 3 and paragraph 5A(4) of schedule 4 of the Licensing (Scotland) Act 2005 (“the 2005 Act”). It comes into force on 30 September 2024.
+Article 2 of the Order amends the Alcohol (Minimum Price per Unit) (Scotland) Order 2018 to specify a new minimum price per unit for alcohol. This applies for the purpose of calculating the minimum price of alcohol relevant to the licensing conditions in paragraph 6A of schedule 3 and paragraph 5A of schedule 4 of the 2005 Act which provide that alcohol may not be sold at a price below the minimum. The new minimum price per unit for alcohol is 65 pence.
+A full Business and Regulatory Impact Assessment has been prepared by the Scottish Government and is available on the Scottish Government website. Copies may be obtained from the Scottish Government Directorate for Population Health, St Andrew’s House, Edinburgh EH1 3DG.","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'The Alcohol (Minimum Price per Unit) (Scotland) Amendment Order 2024\nSuperseded by 2024 No. 128.txt', 'legislation': 'Scottish Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/sdsi/2024/9780111059388/note', 'year': '2024'}"
+Scotland,"A parent in Scotland believes their child requires additional support in school due to a learning difficulty. Under the Education (Additional Support for Learning) (Scotland) Act 2004 (as amended), what rights does the child have, and what steps can the parent take to secure the necessary support?","Under the Education (Additional Support for Learning) (Scotland) Act 2004, as amended, children in Scotland who require additional support due to learning difficulties are legally entitled to specific rights. Education authorities have a duty to assess and provide for these needs when required. According to Section 8(1), if a parent requests an assessment to determine whether their child has additional support needs or requires a Co-ordinated Support Plan (CSP), the education authority must comply with this request unless it is deemed unreasonable. Following assessment, Section 4(1)(a) requires the education authority to make adequate and efficient provision for the identified needs, which can include specialized resources or tailored teaching approaches. If a child’s support needs involve multiple agencies, such as social work or healthcare in addition to education, Section 9(1) ensures they are entitled to a CSP, a document outlining coordinated support across agencies. Parents also have the right, under Section 12(2), to be actively involved in developing and reviewing support plans to ensure that their child’s educational requirements are fully understood and addressed. If disagreements arise regarding the support provided or decisions made, Section 18(1) grants parents the right to appeal to the Additional Support Needs Tribunal for Scotland, which can make binding rulings on disputes related to additional support. These legislative provisions provide a strong framework for ensuring children’s educational needs are met and give parents a clear process to advocate for the support their child requires.","The Education (Additional Support for Learning) (Scotland) Act 2004 sets out the rights of children with additional support needs in Scotland. Under this act, a child has the right to an assessment to determine their needs, and the right to a Plan of Additional Support.
+
+To secure the necessary support, a parent can take the following steps:
+
+1. Request an Assessment: The parent should request an assessment to determine their child's additional support needs. This assessment will be carried out by a specialist teacher or other qualified professional.
+2. Obtain a Report on Additional Support Needs: If the assessment identifies that the child has additional support needs, the school must provide a report outlining these needs and the actions that will be taken to address them.
+3. Create a Plan of Additional Support: The school and the parents must work together to create a Plan of Additional Support for the child. This plan should set out specific goals, targets, and strategies for supporting the child's learning.
+4. Review and Update the Plan Regularly: The Plan of Additional Support will be reviewed and updated regularly to ensure that it remains relevant and effective.
+
+It is also worth noting that under the Children (Scotland) Act 2020, which we discussed earlier in relation to deprivation of liberty orders, there are additional protections for children who may require support due to their age or maturity. If a child requires support due to a learning difficulty, the parents should be aware of these rights and take steps to secure the necessary support.
+
+In particular, if a parent believes that their child requires additional support in school due to a learning difficulty, they should:
+
+* Request an assessment and obtain a report on additional support needs
+* Work with the school to create a Plan of Additional Support for the child
+* Meet regularly with the child's teacher and other professionals to review and update the plan
+* Be involved in making decisions about the provision of additional support
+
+By taking these steps, parents can ensure that their child receives the support they need to succeed in school.",['Education (Additional Support for Learning) (Scotland) Act 2004'],3,False,"Provision of advocacy services
+11.—(1) Where a child becomes the subject of a deprivation of liberty order which has effect as if it were a compulsory supervision order as provided for in regulation 3(1), the Scottish Ministers must, as soon as reasonably practicable, inform that child of the availability of children’s advocacy services.
+(2) The Scottish Ministers need not comply with the requirement in paragraph (1) if, taking account of the age and maturity of the child, the Scottish Ministers consider that it would not be appropriate to do so.
+(3) The Scottish Ministers may enter into arrangements (contractual or otherwise) with any person other than a local authority, CHS or SCRA for the provision of children’s advocacy services.
+(4) For the purposes of this regulation, “children’s advocacy services” means services of support and representation provided for the purposes of assisting a child to convey their needs and views to the manager of the residential care setting in which they have been placed.","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022\nSuperseded by 2022 No. 225.txt', 'legislation': 'Scottish Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/sdsi/2022/9780111054482/regulation/11', 'year': '2022'}","Provision of advocacy services
+11.—(1) Where a child becomes the subject of a deprivation of liberty order which has effect as if it were a compulsory supervision order as provided for in regulation 3(1), the Scottish Ministers must, as soon as reasonably practicable, inform that child of the availability of children’s advocacy services.
+(2) The Scottish Ministers need not comply with the requirement in paragraph (1) if, taking account of the age and maturity of the child, the Scottish Ministers consider that it would not be appropriate to do so.
+(3) The Scottish Ministers may enter into arrangements (contractual or otherwise) with any person other than a local authority, CHS or SCRA for the provision of children’s advocacy services.
+(4) For the purposes of this regulation, “children’s advocacy services” means services of support and representation provided for the purposes of assisting a child to convey their needs and views to the manager of the residential care setting in which they have been placed.
+Commencement Information
+I1
+Reg. 11 in force at 24.6.2022, see reg. 1","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022.txt', 'legislation': 'Scottish Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ssi/2022/225/regulation/11', 'year': '2022'}","Prospective
+21
+Duty to ensure availability of child advocacy services
+(1)
+The Children (Scotland) Act 1995 is modified as follows.
+(2)
+After section 100 insert—
+“100A
+Duty to ensure availability of child advocacy services
+(1)
+The Scottish Ministers must make such provision as they consider necessary and sufficient to ensure that all children concerned in relevant proceedings have access to appropriate child advocacy services.
+(2)
+In this section—
+“child advocacy services” means services of support and representation provided for the purposes of assisting a child in relation to the child's involvement in relevant proceedings,
+“relevant proceedings” means proceedings in which the court is considering making an order under section 11(1).”.","{'category': 'Exclusively or primarily applies to Scotland', 'country': 'Scotland', 'file': 'Children (Scotland) Act 2020.txt', 'legislation': 'Acts of the Scottish Parliament', 'url': 'https://www.legislation.gov.uk/asp/2020/16/section/21', 'year': '2020'}"
+NothernIreland,"An individual in NothernIreland is experiencing domestic abuse and seeks protection from their abuser. Under the Domestic Abuse and Civil Proceedings Act (NothernIreland) 2021, what legal protections are available, and what steps should they take to secure those protections?","An individual in NothernIreland experiencing domestic abuse is protected under the Domestic Abuse and Civil Proceedings Act (NothernIreland) 2021. Specifically, Section 1 of the Act criminalizes a course of abusive behaviour towards a person to whom the abuser is personally connected, such as a partner, ex-partner, or family member. The individual should report the abuse to the Police Service of NothernIreland to initiate a criminal investigation under this Act. Section 2 defines ""abusive behaviour"" as behaviour that is violent or threatening, or behaviour where a reasonable person would consider the course of behaviour likely to cause one or more of the following effects on the victim (B):
+                                       * Making B dependent on, or subordinate to, A (the abuser);
+                                       * Isolating B from friends, relatives, or other sources of social interaction or support;
+                                       * Controlling, regulating, or monitoring B's day-to-day activities;
+                                       * Depriving B of, or restricting, freedom of action;
+                                       * Frightening, humiliating, degrading, or punishing B.
+While the Act does not provide specific protective orders, the individual may apply for a Non-Molestation Order or an Occupation Order under the Family Homes and Domestic Violence (NothernIreland) Order 1998. A Non-Molestation Order can prohibit the abuser from molesting the applicant or a relevant child, and an Occupation Order can regulate the occupation of the shared residence. Additionally, Sections 25 to 28 of the Act offer special measures in civil proceedings to support victims, such as prohibiting the abuser from cross-examining the victim in person.
+To secure these protections, the individual should:
+                                       1. Report the abuse to the Police Service of NothernIreland to initiate criminal proceedings under the Act.
+                                       2. Seek legal advice to apply for a Non-Molestation Order or an Occupation Order through the courts.
+                                       3. Utilize the special measures provided in the Act during any civil proceedings to ensure their safety and well-being.","In Northern Ireland, an individual experiencing domestic abuse can seek protection under the Domestic Abuse Act 2021. According to this legislation, a person in relevant proceedings (as defined in the Domestic Abuse Protection Orders Regulations 2024) may be granted a Domestic Abuse Protection Order (DAPO).
+
+To secure these protections, the individual should take the following steps:
+
+1. **Reach out to a trusted friend, family member, or support organization**: It's essential to have someone they trust inform them of their situation and offer support. Organizations like the Northern Ireland Domestic Abuse Helpline (0808 802 0505) can also provide guidance and connection to local services.
+2. **Contact the police or Crown Court**: The individual should report the abuse to the police or Crown Court, as this will trigger a Domestic Abuse Protection Order process. They can provide details of their situation, including any previous incidents of abuse.
+3. **Apply for a DAPO through the court**: Once in the Crown Court, the individual can apply for a DAPO under section 31(7) of the Act. This application should be made as part of the relevant proceedings (e.g., civil or family law cases).
+4. **Provide evidence and witness statements**: The individual will need to provide evidence of their abuse, including any witness statements or documentation. They may also need to attend court hearings to support their application.
+5. **Meet the 'relevant proceedings' criteria**: To qualify for a DAPO, the relevant proceedings must involve both parties (the individual experiencing abuse and the person responsible for the abuse). This can include family law cases, civil proceedings, or other court-related matters.
+
+**Available protections:**
+
+Once a DAPO is granted, the individual will receive various protections:
+
+* The abuser cannot approach them without the permission of the court.
+* The individual has priority in their household, and the abuser's access to shared spaces may be restricted.
+* The person responsible for abuse must provide information about any previous incidents of violence or abuse.
+
+**Important notes:**
+
+* DAPOs are not a substitute for a conviction; they can still be revoked if the court decides it is no longer necessary.
+* To avoid cross-examination in family or civil proceedings, individuals may need to apply for an ex parte order under section 10(3) of the Act.
+
+If you're experiencing domestic abuse and need immediate assistance or support, please contact:
+
+* Northern Ireland Domestic Abuse Helpline: 0808 802 0505
+* Samaritans (Northern Ireland): 116 123","['', ' Domestic Abuse and Civil Proceedings Act (NothernIreland) 2021\r\n', ' Family Homes and Domestic Violence (NothernIreland) Order 1998']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Regulations)
+Section 31(7) of the Domestic Abuse Act 2021 (“the Act”) provides that the county court may make a domestic abuse protection order against a person in any relevant proceedings to which that person and the person for whose protection the order would be made are parties. These Regulations specify descriptions of proceedings which are to be “relevant proceedings” for these purposes.
+An impact assessment has not been published for these Regulations as no significant impact on the private, voluntary or public sector is foreseen independent of the provisions of the Act to which these Regulations relate.
+An impact assessment has been published in relation to the Act and copies can be obtained from the Ministry of Justice, 102 Petty France, London, SW1H 9AJ, or from this website:https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007463/DA_Act_2021_Impact_Assessment.pdf","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The Domestic Abuse Protection Orders (County Court: Relevant Proceedings) Regulations 2024.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2024/253/note/made', 'year': '2024'}","31
+Domestic abuse protection orders otherwise than on application
+(1)
+A court may make a domestic abuse protection order under this section in any of the cases set out below.
+Family proceedings
+(2)
+The High Court or the family court may make a domestic abuse protection order against a person (“P”) in any family proceedings to which both P and the person for whose protection the order would be made are parties.
+Criminal proceedings
+(3)
+Where a person (“P”) has been convicted of an offence, the court dealing with P for that offence may (as well as sentencing P or dealing with P in any other way) make a domestic abuse protection order against P.
+(4)
+But subsection (3) does not apply where the Court of Appeal is dealing with a person for an offence.
+(5)
+A court by or before which a person is acquitted of an offence may make a domestic abuse protection order against the person.
+(6)
+Where the Crown Court allows a person's appeal against a conviction for an offence, the Crown Court may make a domestic abuse protection order against the person.
+Civil proceedings
+(7)
+The county court may make a domestic abuse protection order against a person (“P”) in any relevant proceedings to which both P and the person for whose protection the order would be made are parties.
+(8)
+In subsection (7) “relevant proceedings” means proceedings of a description specified in regulations made by the Secretary of State.
+Commencement Information
+I1
+S. 31 in force at 27.11.2024 until the end of the specified period on 26.11.2025 in relation to specified areas by S.I. 2024/1191, regs. 1(2)(g), 2, 3(1) (with reg. 4)","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'Domestic Abuse Act 2021.txt', 'legislation': 'UK Public General Acts', 'url': 'https://www.legislation.gov.uk/ukpga/2021/17/section/31', 'year': '2021'}","Domestic Abuse Act 2021
+2021 CHAPTER 17
+An Act to make provision in relation to domestic abuse; to make provision for and in connection with the establishment of a Domestic Abuse Commissioner; to make provision for the granting of measures to assist individuals in certain circumstances to give evidence or otherwise participate in civil proceedings; to prohibit cross-examination in person in family or civil proceedings in certain circumstances; to make further provision about orders under section 91(14) of the Children Act 1989; to provide for an offence of threatening to disclose private sexual photographs and films with intent to cause distress; to provide for an offence of strangulation or suffocation; to make provision about circumstances in which consent to the infliction of harm is not a defence in proceedings for certain violent offences; to make provision about certain violent or sexual offences, and offences involving other abusive behaviour, committed outside the United Kingdom; and for connected purposes.
+[29th April 2021]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'Domestic Abuse Act 2021.txt', 'legislation': 'UK Public General Acts', 'url': 'https://www.legislation.gov.uk/ukpga/2021/17/introduction', 'year': '2021'}"
+NothernIreland,"An employee in NothernIreland suspects they are being paid below the National Minimum Wage. Under the National Minimum Wage Act 1998 and the National Minimum Wage Regulations (NothernIreland) 2015, what are their rights, and what steps can they take to address the issue?","Under the National Minimum Wage Act 1998 and the National Minimum Wage Regulations (NothernIreland) 2015, an employee in NothernIreland who suspects they are being paid below the National Minimum Wage (NMW) has specific rights and actionable steps to address the issue. The Act mandates that employees must be paid at least the NMW, as set out in Section 1(1), which establishes the legal entitlement to minimum wage for all qualifying workers. Employers are legally required to keep accurate records of wage payments under Section 9 of the Act. These records should be sufficient to demonstrate that an employee is being paid at least the NMW. Therefore, the first step for the employee is to review their pay records to confirm any potential underpayment. Should there be a discrepancy, Section 10 grants the employee the right to formally request access to these records, enabling them to verify their calculations against the NMW requirement. If the employee identifies an underpayment, they should raise this issue with their employer, as it may be an oversight. If the employer fails to resolve the issue, the employee can escalate the matter to HM Revenue and Customs (HMRC), the body responsible for enforcing compliance. While Section 13 of the Act authorizes the Secretary of State to appoint officers for enforcement purposes, Section 14 provides HMRC officers with the power to issue enforcement notices if employers are found non-compliant.  While the Act provides the primary framework, the National Minimum Wage Regulations (NothernIreland) 2015 offer additional details for specific situations, such as valuing accommodation benefits or adjusting for absences, which can influence wage calculations. For most straightforward underpayment cases, the Act alone provides the necessary rights and procedures, with the Regulations supporting only in specific circumstances affecting wage calculation. In addition to these provisions, the Employment Rights (NothernIreland) Order 1996 is also relevant as it grants the employee a procedural framework for seeking redress if they are not compensated as per the NMW. Under the 1996 Order, if an employee experiences a sustained issue with underpayment, they have the right to file a claim with an Industrial Tribunal. This Order, though not specifically addressing minimum wage rates, is essential for the employee’s right to fair wages, as it permits claims for unlawful deduction of wages or breach of contract, allowing the employee to recover underpaid amounts. The 1996 Order thus complements the National Minimum Wage Act 1998 by establishing legal recourse in cases of wage disputes.","I'll provide an elaborate response based on the context provided.
+
+If you suspect that you're being paid below the National Minimum Wage in Northern Ireland, it's essential to understand your rights under the National Minimum Wage Act 1998 and the National Minimum Wage Regulations (Northern Ireland) 2015. Here's what you need to know:
+
+**Your Rights:**
+
+1. **National Minimum Wage**: As an employee in Northern Ireland, you're entitled to the National Minimum Wage, which is currently set at £9.50 per hour for workers aged 23 and over, £9.18 per hour for workers aged 21-22, and £6.56 per hour for workers under 21.
+2. **Retaliatory Pay**: If your employer has refused or wilfully neglected to pay you the National Minimum Wage, you're entitled to retaliatory pay, which is calculated as follows: (a) the amount of underpayment; plus (b) interest on that amount at a rate determined by the Secretary of State for Work and Pensions.
+3. **Payment in Lieu**: If your employer pays you in lieu of National Minimum Wage, they must also pay any accrued but unpaid National Minimum Wage.
+4. **Unpaid Wages**: You're entitled to be paid any unpaid wages owed to you within 14 days of receiving this request.
+
+**Steps to Address the Issue:**
+
+1. **Keep Records**: Keep a record of all your hours worked, including dates and amounts earned. This will help you track any discrepancies in payment.
+2. **Check Your Pay Slips**: Review your pay slips to ensure that you're being paid the correct amount. If you notice any errors or discrepancies, take this as an opportunity to address the issue directly with your employer.
+3. **Speak to Your Employer**: Schedule a meeting with your employer to discuss your concerns about underpayment. Provide them with your records and explain how their actions have affected you.
+4. **Seek Support**: If speaking to your employer doesn't resolve the issue, consider seeking support from:
+	* Acas (Advisory, Conciliation and Arbitration Service) - a free and impartial service that provides guidance on employment law.
+	* The Citizen's Advice Bureau - a non-profit organization that offers free, independent advice on various issues, including employment rights.
+	* The Northern Ireland Employment Law Helpline - a confidential helpline that provides free advice on employment-related matters.
+5. **Consider Formal Action**: If your employer continues to fail to pay you the National Minimum Wage, consider seeking formal action through:
+	* A letter of claim: Write a detailed letter outlining your concerns and providing evidence to support your claims.
+	* Claim at an Employment Tribunal: You can submit a claim to an Employment Tribunal in Belfast or another designated location.
+
+Remember that the sooner you take action, the better. Don't hesitate to reach out for support if you're struggling with underpayment or any other employment-related issue.","['', ' National Minimum Wage Act 1998\r\n', ' National Minimum Wage Regulations (NothernIreland) 2015\r\n', ' The Employment Rights (NothernIreland) Order 1996']",3,False,"2.  The National Minimum Wage Regulations 2015(1) are amended in accordance with this Part.
+(1)
+S.I. 2015/621, to which there are amendments not relevant to these Regulations.","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The National Minimum Wage (Amendment) (No. 2) Regulations 2020.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2020/339/regulation/2/made', 'year': '2020'}","2.  The National Minimum Wage Regulations 2015(1) are amended in accordance with this Part.
+(1)
+S.I. 2015/621, to which there are amendments not relevant to these Regulations.","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The National Minimum Wage (Amendment) (No. 2) Regulations 2020\nSuperseded by 2020 No. 339.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2020/9780111193020/regulation/2', 'year': '2020'}","Prospective
+Labour market, slavery and human trafficking offences
+21
+An offence under section 31(1) of the National Minimum Wage Act 1998 (refusal or wilful neglect to pay the national minimum wage).
+Commencement Information
+I1
+Sch. 6 para. 21 not in force at Royal Assent, see s. 127(2)","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'Procurement Act 2023.txt', 'legislation': 'UK Public General Acts', 'url': 'https://www.legislation.gov.uk/ukpga/2023/54/schedule/6/paragraph/21', 'year': '2023'}"
+NothernIreland,"An employee in NothernIreland has recently lost a child and is unsure about their entitlement to bereavement leave and pay. Under the Parental Bereavement Leave and Pay Act (NothernIreland) 2022, what are their rights, and how can they access them?","Under the Parental Bereavement Leave and Pay Act (NothernIreland) 2022, an employee in NothernIreland who has recently lost a child is entitled to bereavement leave, and if they meet certain criteria, they may also be eligible for bereavement pay. Article 112EA(1)-(3) defines a ""bereaved parent"" as an employee who meets specified relationship conditions with the deceased child, which may include a caregiving role before the child’s death. Employees who lose a child under 18, or experience a stillbirth after 24 weeks of pregnancy, are entitled to at least two weeks of bereavement leave under Article 112EA(5). This leave can be taken either as a single two-week block or in two separate one-week periods. According to Article 112EA(6), this leave must be taken within at least 56 days (eight weeks) from the date of the child’s death, providing flexibility within that period.
+If an employee loses more than one child, Article 112EA(7) entitles them to bereavement leave for each child. Article 112EB outlines rights during and after bereavement leave, specifying that employees on leave retain most employment terms and conditions (excluding remuneration). According to Article 112EB(1)(a)-(c), employees are entitled to return to their original or an equivalent job after bereavement leave. Furthermore, Article 112EB(3) provides that if bereavement leave coincides with other types of parental leave (such as maternity or paternity leave), the right to return applies across the entire period of absence.
+To access bereavement leave, Article 112ED(a) requires employees to notify their employer as soon as reasonably practicable, specifying the intended dates for leave. Employers are obligated to grant this leave and cannot delay or refuse it. If the employee is also eligible for statutory bereavement pay, they must provide notice and any required documentation as directed under Articles 112ED(a) and (c).","I'm happy to help with this question.
+
+In NothernIreland, the Parental Bereavement (Leave and Pay) Bill was enacted in 2022, which provides entitlements to bereavement leave and pay for parents following the death of a child. However, I couldn't find any information on a specific ""Parental Bereavement Leave and Pay Act"" with this exact title.
+
+But, based on the context provided by the Regulations, it appears that NothernIreland has adopted the UK's Parental Bereavement (Leave and Pay) Bill, which was enacted in 2020. This means that an employee in NothernIreland who has recently lost a child may be entitled to bereavement leave and pay under this UK legislation.
+
+Under the UK's Parental Bereavement (Leave and Pay) Act 2020, eligible parents are entitled to:
+
+* Two weeks' paid leave following the stillbirth or death of their child
+* A statutory payment of £68 per week for up to two years from the date of the bereavement
+
+To access these rights, the employee should contact their employer to discuss their entitlements and the necessary procedures for taking leave. The employer is required to provide a minimum of two weeks' paid leave, with the option to take more leave if needed.
+
+It's also worth noting that the UK Government has published guidance on the Parental Bereavement (Leave and Pay) Bill, which includes information on how to access bereavement leave and pay. This guidance is available on the UK Government's website or can be obtained from the Department for Work and Pensions.
+
+In summary, an employee in NothernIreland who has recently lost a child may be entitled to bereavement leave and pay under the UK's Parental Bereavement (Leave and Pay) Act 2020. To access these rights, they should contact their employer and discuss the necessary procedures for taking leave.","['', ' Parental Bereavement Leave and Pay Act (NothernIreland) 2022']",3,False,"EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make amendments to secondary legislation in consequence of Regulations made under the Employment Rights Act 1996 and Social Security Contributions and Benefits Act 1992, which make provision for entitlements to bereavement leave and pay for parents following the death of a child.
+These Regulations are part of a package of legislative measures and the relevant impact assessment is the Parental Bereavement (Leave and Pay) Bill impact assessment which was published on 14 May 2018. A copy of that impact assessment can be obtained from the Department for Business, Energy and Industrial Strategy, Labour Market Directorate, 1 Victoria Street, London, SW1H 0ET.","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020.txt', 'legislation': 'UK Statutory Instruments', 'url': 'https://www.legislation.gov.uk/uksi/2020/354/note', 'year': '2020'}","EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make amendments to secondary legislation in consequence of Regulations made under the Employment Rights Act 1996 and Social Security Contributions and Benefits Act 1992, which make provision for entitlements to bereavement leave and pay for parents following the death of a child.
+These Regulations are part of a package of legislative measures and the relevant impact assessment is the Parental Bereavement (Leave and Pay) Bill impact assessment which was published on 14 May 2018. A copy of that impact assessment can be obtained from the Department for Business, Energy and Industrial Strategy, Labour Market Directorate, 1 Victoria Street, London, SW1H 0ET.","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020\nReplaced by new draft ISBN 978-0-11-119401-0.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2020/9780111193419/note', 'year': '2020'}","EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations make amendments to secondary legislation in consequence of Regulations made under the Employment Rights Act 1996 and Social Security Contributions and Benefits Act 1992, which make provision for entitlements to bereavement leave and pay for parents following the death of a child.
+These Regulations are part of a package of legislative measures and the relevant impact assessment is the Parental Bereavement (Leave and Pay) Bill impact assessment which was published on 14 May 2018. A copy of that impact assessment can be obtained from the Department for Business, Energy and Industrial Strategy, Labour Market Directorate, 1 Victoria Street, London, SW1H 0ET.","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020\nSuperseded by 2020 No. 354.txt', 'legislation': 'UK Draft Statutory Instruments', 'url': 'https://www.legislation.gov.uk/ukdsi/2020/9780111194010/note', 'year': '2020'}"
+NothernIreland,"A tenant in NothernIreland has been served an eviction notice by their landlord, giving them four weeks to vacate the property. The tenant has lived there for two years under a periodic tenancy. Under the Private Tenancies Act (NothernIreland) 2022, is the notice period valid, and what rights does the tenant have?","Under the Private Tenancies Act (NothernIreland) 2022, a landlord’s notice to quit a property must meet specific statutory notice periods based on the length of the tenancy. This Act amends the Private Tenancies (NothernIreland) Order 2006, particularly Article 14, to reflect updated notice requirements. For a tenant who has lived in the property for two years under a periodic tenancy, Section 11 of the 2022 Act amends Article 14 of the 2006 Order to specify that the landlord must provide at least 4 months’ notice before requiring the tenant to vacate. This 4-month period applies to tenancies that have existed for more than 12 months but not more than 3 years (as outlined in the new Article 14(1A)(b)). Because the landlord provided only four weeks’ notice, this does not satisfy the legal requirement, rendering the notice invalid. The tenant has the right to remain in the property until a valid notice to quit is served that meets the legally required notice period. Under Section 11 of the Private Tenancies Act (NothernIreland) 2022, which amends Article 14 of the Private Tenancies (NothernIreland) Order 2006, landlords are required to give a minimum 4-month notice for tenancies that have lasted more than 12 months but not more than 3 years. Because the tenant has lived in the property for two years, the landlord’s four-week notice does not meet this requirement and is therefore invalid. The tenant may choose to inform the landlord in writing that the notice is invalid due to the insufficient notice period, referencing Article 14(1), which states that a notice to quit is only valid if it complies with the minimum notice periods required by law. If the landlord proceeds with eviction attempts despite the invalid notice, the tenant may seek legal remedies. While specific injunctions or protections against harassment are not outlined within this tenancy legislation, the tenant may still seek legal assistance through broader NothernIreland housing or civil law protections to prevent an unlawful eviction and maintain peaceful possession of the property.","In Northern Ireland, under the Private Tenancies Act (Northern Ireland) 2022, the notice period for an eviction notice by a landlord to a tenant is governed by Section 1 of the Act.
+
+According to Section 1(1), the length of notice to quit in relation to a private tenancy has been modified during the emergency period. The ""relevant period"" is now 12 weeks, instead of the usual 8 weeks or such longer or shorter period that may be specified by regulations under this section.
+
+However, since the tenant has lived there for two years under a periodic tenancy, which is not subject to the same rules as an initial fixed-term tenancy, their rights are slightly different. The Private Tenancies Act (Northern Ireland) 2022 does provide protection for tenants in certain circumstances, particularly where they have been living in the property since before the emergency period.
+
+Given that the tenant has lived there for two years under a periodic tenancy, which is not subject to the same rules as an initial fixed-term tenancy, their rights are slightly different. In this case, the tenant does not fall within the scope of Section 1(2)(a) and (b) of the Private Tenancies Act (Northern Ireland) 2022, since they have been living in the property for a period exceeding six years.
+
+However, it's essential to note that the Department may by regulations amend the date specified in subsection (2)(b), which could affect the notice period. The amendment cannot result in the emergency period ending later than two years beginning with the day after the day on which this Act receives Royal Assent.
+
+Given that the tenant has been living in the property for an extended period, and considering the specific circumstances of their tenancy, it is likely that the landlord's four-week notice period does not comply with the requirements under Section 1(2) of the Private Tenancies Act (Northern Ireland) 2022. 
+
+In this scenario, the tenant may have a claim to longer notice under the terms of Section 1(2) and potentially be entitled to more notice if the landlord is seeking to terminate their tenancy. The Department's ability to extend or shorten the emergency period has already impacted the validity of the notice period.
+
+If you would like me to delve further into this topic, I will do my best to provide an elaborate response based on available information.","['', ' Private Tenancies Act (NothernIreland) 2022 ', ' Section 11\r\n', ' Private Tenancies (NothernIreland) Order 2006 ', ' Article 14']",3,False,"Notice to quit: private tenancies
+1—(1) During the emergency period, Article 14 of the Private Tenancies (Northern Ireland) Order 2006 (length of notice to quit) has effect in relation to a notice to quit given by a landlord as if—
+(a)
+in paragraph (1), for “the relevant period” there were substituted “ 12 weeks ”, and
+(b)
+paragraph (1A) were omitted.
+(2) In subsection (1), “the emergency period” means the period—
+(a)
+beginning with the day after the day on which this Act receives Royal Assent, and
+(b)
+ending with [F14th May 2022].
+(3) The Department may by regulations amend the date specified in subsection (2)(b) to another specified date.
+(4) The power in subsection (3) may be exercised on more than one occasion so as to further amend the date.
+(5) Any amendment of the date specified in subsection (2)(b) cannot result in the emergency period ending later than—
+(a)
+2 years beginning with the day after the day on which this Act receives Royal Assent, or
+(b)
+such shorter period as the Department may by regulations specify.
+(6) Regulations under this section are subject to negative resolution.
+Textual Amendments
+F1
+Words in s. 1(2)(b) substituted (29.9.2021) by The Private Tenancies (Coronavirus Modifications) (No.2) Regulations (Northern Ireland) 2021 (S.R. 2021/242), regs. 1, 2","{'category': 'Exclusively or primarily applies to NothernIreland', 'country': 'NothernIreland', 'file': 'Private Tenancies (Coronavirus Modifications) Act (Northern Ireland) 2020.txt', 'legislation': 'Acts of the Northern Ireland Assembly', 'url': 'https://www.legislation.gov.uk/nia/2020/2/section/1', 'year': '2020'}","Regulation 3
+SCHEDULE 2
+LANDLORD’S NOTICE RELATING TO THE VARIATION OF A PRIVATE TENANCY
+Commencement Information
+I1
+Sch. 2 in operation at 1.4.2023, see reg. 1(1)
+Article 4B of the Private Tenancies (Northern Ireland) Order 2006 and Section 2 and Schedule 1 to the Private Tenancies Act (Northern Ireland) 2022.
+This Notice must be given to the tenant free of charge and within 28 days of the date of the variation.","{'category': 'Exclusively or primarily applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The Tenancy Information Regulations (Northern Ireland) 2023.txt', 'legislation': 'Northern Ireland Statutory Rules', 'url': 'https://www.legislation.gov.uk/nisr/2023/19/schedule/2', 'year': '2023'}","Tenant to be given notice regarding certain past matters
+2.  Schedule 1 provides for the giving of notice regarding certain matters to the tenants of dwelling-houses that are let under a private tenancy on the date on which section 1 comes into operation—
+(a)
+where the tenancy was granted on or after 30 June 2011 but before the date on which section 1 comes into operation;
+(b)
+where certain terms of the tenancy were varied on or after 30 June 2011 but before the date on which section 1 comes into operation.
+Commencement Information
+I1
+S. 2 in operation at 28.4.2022 for specified purposes, see s. 14(2)(b)
+I2
+S. 2 in operation at 1.4.2023 in so far as not already in operation by S.R. 2023/20, art. 2, Sch.","{'category': 'Exclusively or primarily applies to NothernIreland', 'country': 'NothernIreland', 'file': 'Private Tenancies Act (Northern Ireland) 2022.txt', 'legislation': 'Acts of the Northern Ireland Assembly', 'url': 'https://www.legislation.gov.uk/nia/2022/20/section/2', 'year': '2022'}"
+NothernIreland,"An individual in NothernIreland is being harassed and stalked by an ex-partner, causing them significant distress. Under the Stalking Act (NothernIreland) 2022, what legal protections are available to them, and what steps should they take to ensure their safety?","Under the Protection from Stalking Act (NothernIreland) 2022, individuals in NothernIreland who are being harassed and stalked by an ex-partner can rely on specific legal protections. The Act clearly defines stalking as a criminal offense in Section 1, where engaging in a course of conduct causing another person to experience fear, alarm, or substantial distress constitutes stalking. Such conduct includes following, contacting, monitoring usage of electronic communications, and other invasive behaviors. Offenders can face severe penalties, with up to 10 years imprisonment or a fine upon conviction on indictment, or up to 12 months imprisonment or a statutory maximum fine upon summary conviction. Additionally, the Act allows for Stalking Protection Orders (SPOs), detailed in Section 7, which the Chief Constable can apply for. These orders are designed to prevent further stalking activities by imposing specific prohibitions or requirements on the stalker. The eligibility for an SPO is based on evidence that the individual has engaged in stalking, poses a risk related to stalking, and that the order is necessary to protect someone from this risk. These orders can be applied against anyone residing in, or intending to visit, NothernIreland. The duration of these orders is addressed in Section 9, where an SPO can last for a minimum of two years or until further court order. The court may specify that some conditions within the SPO remain effective until further judicial review while setting others for fixed periods. This flexibility allows the protective measures to be adapted over time to match the needs of the situation. For their safety, affected individuals should report stalking incidents to the Police Service of NothernIreland (PSNI), enabling legal proceedings that could include the issuance of an SPO. Consulting legal advice and engaging with support services are also advisable steps to ensure comprehensive protection and support.","I'll provide a comprehensive response to your question.
+
+Under the Stalking Act (Northern Ireland) 2022, an individual who is being harassed and stalked by an ex-partner may be entitled to several legal protections. The primary goal of this Act is to provide protection from stalking and threatening or abusive behavior, aiming to safeguard individuals at risk of stalking.
+
+Firstly, if the individual has reason to believe that their ex-partner's behavior constitutes stalking under the Protection from Harassment Act 1997 (as amended by the Stalking Act), they may be able to apply for a Stalking Protection Order. This order can provide a range of protective measures, including:
+
+1. Police intervention: The individual can request early police intervention pre-conviction to address the stalking behavior and prevent it from escalating.
+2. Restraining orders: A court may issue a restraining order to prohibit the ex-partner from engaging in specific behaviors or approaching the individual within a certain distance.
+3. Protection from further harassment: The court can also provide protection by restricting the ex-partner's ability to communicate with the individual, either directly or through third parties.
+
+To access these protections, the individual should:
+
+1. Contact the police: They should report the stalking behavior to the police as soon as possible, providing as much detail as they can about the incidents.
+2. Seek advice from a solicitor: It's essential for the individual to consult with a solicitor who specializes in stalking and harassment cases. The solicitor can provide guidance on the best course of action and represent them in court if necessary.
+3. Apply for a Stalking Protection Order: If the police have taken statements or evidence, the individual should apply for a Stalking Protection Order. This will require submitting an application to the court, along with supporting documentation and witnesses' statements (if applicable).
+
+Additionally, the Department of Justice is required by Section 17 of the Act to publish guidance on the operation of Stalking Protection Orders. While this guidance has not yet been published, it's essential for individuals to stay informed about the latest developments in stalking laws and procedures.
+
+It's crucial for individuals experiencing harassment and stalking to prioritize their safety and seek help as soon as possible. The sooner they report the behavior and apply for a Stalking Protection Order, the more effective the measures can be in preventing further harm.
+
+Please note that this response is based on my analysis of the provided documents and may not cover all aspects of Northern Ireland law. If you're facing a similar situation, I strongly recommend consulting with a qualified solicitor or relevant authorities for personalized advice.","['', ' Protection from Stalking Act (NothernIreland) 2022']",3,False,"Protection from Stalking Act (Northern Ireland) 2022
+2022 CHAPTER 17
+An Act to provide protection from stalking, and from threatening or abusive behaviour, and for related purposes.
+[26th April 2022]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:","{'category': 'Exclusively or primarily applies to NothernIreland', 'country': 'NothernIreland', 'file': 'Protection from Stalking Act (Northern Ireland) 2022.txt', 'legislation': 'Acts of the Northern Ireland Assembly', 'url': 'https://www.legislation.gov.uk/nia/2022/17/introduction', 'year': '2022'}","EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order brings sections 6 to 17 of the Protection from Stalking Act (Northern Ireland0 2022 (“the Act”) into operation on 19th October 2023.
+Section 6 to 16 of the Act makes provision from Stalking Protection Orders to provide protection to a person at risk of stalking.
+They will enable early police intervention pre-conviction, to address stalking behaviours before they become entrenched, or escalate n severity and to protect victims from more serious harm.
+Section 17 allows the Department to publish guidance on the operation of Stalking Protection Orders.","{'category': 'Exclusively or primarily applies to NothernIreland', 'country': 'NothernIreland', 'file': 'The Protection from Stalking (2022 Act) (Commencement) Order (Northern Ireland) 2023.txt', 'legislation': 'Northern Ireland Statutory Rules', 'url': 'https://www.legislation.gov.uk/nisr/2023/174/note', 'year': '2023'}","Protection from Harassment Act 1997
+43
+An offence under any of the following provisions of the Protection from Harassment Act 1997—
+(a)
+section 2 (harassment);
+(b)
+section 2A (stalking);
+(c)
+section 4 (harassment involving putting a person in fear of violence);
+(d)
+section 4A (stalking involving putting a person in fear of violence).
+Commencement Information
+I1
+Sch. 9 para. 43 not in force at Royal Assent, see s. 67(1)
+I2
+Sch. 9 para. 43 in force at 1.11.2023 by S.I. 2023/1145, reg. 3(j)","{'category': 'May contain legislation that applies to NothernIreland', 'country': 'NothernIreland', 'file': 'Elections Act 2022.txt', 'legislation': 'UK Public General Acts', 'url': 'https://www.legislation.gov.uk/ukpga/2022/37/schedule/9/paragraph/43', 'year': '2022'}"
