@@ -1,0 +1,59 @@
+
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348264418/introduction
+Draft Order laid before Parliament under section 459(6)(a) of the Proceeds of Crime Act 2002 for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No.
+PROCEEDS OF CRIME, NORTHERN IRELAND
+The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) (Northern Ireland) Order 2024
+Made
+***
+Coming into force
+29th November 2024
+The Secretary of State makes this Order in exercise of the powers conferred by section 195S(4) and (5) of the Proceeds of Crime Act 2002 (“the 2002 Act”)(1).
+A draft of this instrument has been laid before Parliament under section 459(6)(a) of the 2002 Act(2) and has been approved by a resolution of each House of Parliament.
+The Secretary of State has—
+(a)
+under section 195S(5) of the 2002 Act(3), revised the code of practice made under section 195S(1) of the 2002 Act;
+(b)
+in accordance with section 195S(2) of the 2002 Act, published a draft of the revised code of practice, considered any representations made about the draft and modified the draft as thought appropriate in the light of any such representations;
+(c)
+in accordance with section 195S(2A) of the 2002 Act, consulted the Attorney General about the draft in its application to the exercise of powers by SFO officers and the Director of the Serious Fraud Office; and
+(d)
+in accordance with section 195S(3) of the 2002 Act, laid the draft before Parliament.
+(1)
+2002 c. 29.
+(2)
+Section 495(6)(a) was amended by section 112(1) of, and paragraph 95 of Schedule 7 to, the Policing and Crime Act 2009 (c. 26). Other amendments have been made but none are relevant.
+(3)
+Section 195S was inserted by section 57 of the Policing and Crime Act 2009 (which was amended by S.I. 2012/2595) and amended by paragraph 118 of Schedule 8 to the Crime and Courts Act 2013 (c. 22); by paragraphs 1 and 10 of Schedule 1 to the Criminal Finances Act 2017; and by S.I. 2015/230.
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348264418/article/1
+Citation, commencement and extent
+1.—(1) This Order may be cited as the Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) (Northern Ireland) Order 2024 and comes into force on 29th November 2024.
+(2) This Order extends to Northern Ireland.
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348264418/article/2
+Revised code of practice
+2.  The revised code of practice entitled “Code of Practice issued under section 195S of the Proceeds of Crime Act 2002: Search, Seizure and Detention of Property (Northern Ireland)” and laid before Parliament in draft on 16th October 2024 comes into operation on 29th November 2024.
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348264418/article/3
+Revocation
+3.  The Proceeds of Crime Act 2002 (Search, Seizure and Detention of Property: Code of Practice) (Northern Ireland) Order 2021(1) is revoked.
+(1)
+S.I. 2021/729.
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348264418/signature
+Name
+Minister of State
+Home Office
+DATE
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348264418/note
+EXPLANATORY NOTE
+(This note is not part of the Order)
+This Order brings into operation a revised code of practice issued by the Secretary of State under the Proceeds of Crime Act 2002 (c. 29) (“the 2002 Act”).
+It is necessitated by certain amendments made to the 2002 Act by the Economic Crime and Corporate Transparency Act 2023 (c. 56) which concern cryptoassets.
+Article 2 brings into operation, on 29th November 2024, a revised code of practice relating to the powers of certain officers under Part 4 of the 2002 Act to search for, seize and detain property, including cryptoassets and related items, in Northern Ireland.
+Article 3 revokes a previous instrument which brought into force a previous code of practice.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sectors is foreseen.

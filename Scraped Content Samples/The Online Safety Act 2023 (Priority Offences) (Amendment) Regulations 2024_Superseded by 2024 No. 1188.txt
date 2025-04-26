@@ -1,0 +1,44 @@
+
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348263510/introduction
+Draft Regulations laid before Parliament under section 225(1) of the Online Safety Act 2023 (c. 50), for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No.
+ELECTRONIC COMMUNICATIONS
+The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2024
+Made
+Coming into force in accordance with regulation 1(2)
+The Secretary of State makes these Regulations in exercise of the power conferred by section 222(3) of the Online Safety Act 2023(1).
+The Secretary of State considers it appropriate to add to Schedule 7 to that Act the offences set out in regulation 2(2) for the reasons set out in section 222(4) of that Act.
+In accordance with section 225(1) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.
+(1)
+2023 c. 50.
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348263510/regulation/1
+Citation, commencement and extent
+1.—(1) These Regulations may be cited as the Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2024.
+(2) These Regulations come into force on the 21st day after the day on which they are made.
+(3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348263510/regulation/2
+Amendment of Schedule 7 to the Online Safety Act 2023
+2.—(1) Schedule 7 to the Online Safety Act 2023 (priority offences) is amended in accordance with paragraphs (2) and (3).
+(2) Before paragraph 29 (but after the italic heading “sexual images”) insert —
+“28A.  An offence under section 66B of the Sexual Offences Act 2003(1) (sharing or threatening to share intimate photograph or film).”.
+(3) Omit paragraph 30.
+(1)
+2003 c. 42, amended by section 188 of the Online Safety Act 2023 (c. 50).
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348263510/signature
+Parliamentary Under-Secretary of State
+Department for Science, Innovation and Technology
+DATE
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348263510/note
+EXPLANATORY NOTE
+(This note is not part of the Regulations)
+These Regulations amend the priority offences set out in Schedule 7 to the Online Safety Act 2023 (“the Act”). Criminal offences listed in Schedule 7 to the Act are made ‘priority offences’ by section 59 of the Act. Part 3 of the Act imposes duties on providers of certain internet services in relation to priority offences and content which amounts to these offences.
+The Act repealed the offence under section 33 of the Criminal Justice and Courts Act 2015 (disclosing private sexual photographs and films with intent to cause distress) and replaced it with new offences under section 66B of the Sexual Offences Act 2003 (sharing or threatening to share intimate photograph or film).
+These Regulations remove the repealed offence from Schedule 7 to the Act and add the new offences to that Schedule.
+The Secretary of State considers it appropriate to add these offences to Schedule 7 because of the prevalence of content on regulated user-to-user services or regulated search services that amounts to the new offences, the risk of harm to individuals in the United Kingdom presented by such content and the severity of that harm.
+A de minimis assessment of the effect that this instrument will have on the costs of business and the public sector has been conducted.

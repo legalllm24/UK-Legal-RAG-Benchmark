@@ -1,0 +1,69 @@
+
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348266764/introduction
+Draft Rules laid before Parliament under section 373(3)(f) of the Armed Forces Act 2006, for approval by resolution of each House of Parliament.
+DRAFT STATUTORY INSTRUMENTS
+2024 No. XXXX
+DEFENCE
+The Armed Forces (Court Martial) (Amendment No. 2) Rules 2024
+Made
+***
+Coming into force
+20th February 2025
+The Secretary of State makes these Rules in exercise of the powers conferred by sections 155(3) and (4) and 163(1) to (3) of the Armed Forces Act 2006(1).
+A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament in accordance with section 373(3)(f) of the Armed Force Act 2006.
+(1)
+2006 c. 52. Section 155 was amended by paragraph 1 of Schedule 1 to the Armed Forces Act 2021 (c. 35).
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348266764/rule/1
+Citation, commencement and extent
+1.—(1) These Rules may be cited as the Armed Forces (Court Martial) (Amendment No. 2) Rules 2024.
+(2) These Rules come into force on 20th February 2025.
+(3) These Rules extend to England and Wales, Scotland, Northern Ireland, the Isle of Man, and the British overseas territories (except Gibraltar).
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348266764/rule/2
+Amendment of the Armed Forces (Court Martial) Rules 2009
+2.  In the Armed Forces (Court Martial) Rules 2009(1), in Rule 34 (the president of the board)—
+(a)
+in paragraph (3)—
+(i)
+after “officer”, insert “(“A”)”;
+(ii)
+in subparagraphs (a) and (b), for “he”, in both places it occurs, substitute “A”;
+(iii)
+in subparagraph (c), after the words “to whom proceedings relate”, insert “(“B”)” and for the words after “subject to service law,”, substitute “A satisfies the requirements set out in paragraphs (4) and (4A).”;
+(b)
+for paragraph (4), substitute “Where B is of rank OF-6 or above, A must be of rank OF-6 or above.;
+(c)
+after paragraph (4), insert—
+“(4A) Where B is of rank OF-5 or below, A must be of superior rank to B.”;
+(d)
+after paragraph (5), insert—
+“(5A)
+In this rule—
+“OF-5” means any of the following—
+(a)
+captain, Royal Navy;
+(b)
+colonel;
+(c)
+group captain;
+“OF-6” means any of the following—
+(a)
+commodore;
+(b)
+brigadier;
+(c)
+air commodore.”.
+(1)
+S.I. 2009/2041.
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348266764/signature
+Parliamentary Under Secretary of State
+Ministry of Defence
+URL_Of_PAGE:
+https://www.legislation.gov.uk/ukdsi/2024/9780348266764/note
+EXPLANATORY NOTE
+(This note is not part of the Rules)
+This instrument amends Rule 34 of the Armed Forces (Court Martial) Rules 2009 (S.I. 2009/2041). Rule 2 provides that in proceedings requiring lay members the rank of the president of the board must be at least OF-6 where the defendant is of rank OF-6 or higher. Where a defendant is of rank OF-5 or lower, the president of the board must be of superior rank to the defendant.
+A full impact assessment has not been produced for this instrument as no, or no significant, impact on the private, voluntary or public sector is foreseen.
