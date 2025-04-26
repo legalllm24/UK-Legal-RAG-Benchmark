@@ -1,5 +1,7 @@
+
 from typing import List
 
+# Handle relative imports
 if __name__ == "__main__":
     from utils import *
 else:
@@ -7,9 +9,11 @@ else:
 
 import os
 from dotenv import load_dotenv
+
+# Load environment variables from .env located in the current file's directory
 Path_ENV = os.path.abspath(__file__)
 Path_ENV = os.path.dirname(Path_ENV)
-load_dotenv(Path_ENV+'/.env')
+load_dotenv(Path_ENV + '/.env')
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -17,115 +21,117 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 from langchain.docstore.document import Document
 
-class Database():
+class Database:
+    """
+    Abstract base class for implementing a database interface 
+    for vector-based document storage and retrieval.
+    """
+
     def __init__(self, text_splitter=None, embedding_model=None) -> None:
         """
-        Initializes a WeaviateDB object.
+        Initializes the base Database object.
+
+        Args:
+            text_splitter (str, optional): Text splitting method ('SpaCy' or 'Recursive').
+            embedding_model (str, optional): Embedding model to use for vectorization.
+
+        Raises:
+            Exception: If invalid text splitter or embedding model is provided.
         """
-        if text_splitter == None or text_splitter == 'Recursive':
+        # Initialize the text splitter
+        if text_splitter is None or text_splitter == 'Recursive':
             self.text_splitter = get_recursive_text_splitter()
-        elif text_splitter in ['SPACY', 'spacy', 'Spacy', 'SPACy', 'spaCy', 'SpaCy']:
+        elif text_splitter.lower() == 'spacy':
             self.text_splitter = get_spacy_text_splitter()
         else:
-            raise Exception('Invalid Text Splitter. Choose from SpaCy or Recursive')
+            raise Exception('Invalid Text Splitter. Choose from SpaCy or Recursive.')
 
-        if embedding_model == None or embedding_model == 'SentenceTransformers': 
+        # Initialize the embedding model
+        if embedding_model is None or embedding_model == 'SentenceTransformers': 
             self.embeddings = get_sentence_transformers_embeddings()
-        elif embedding_model.lower() in ['openai']:
+        elif embedding_model.lower() == 'openai':
             self.embeddings = get_openai_embeddings()
-        elif embedding_model.lower() in ['google', 'gemini', 'GEMINI']:
+        elif embedding_model.lower() in ['google', 'gemini']:
             self.embeddings = get_google_genai_embeddings()
-        elif embedding_model.lower() in ['ollama']:
+        elif embedding_model.lower() == 'ollama':
             self.embeddings = get_ollama_embeddings()
         else:
-            raise Exception('Invalid Embedding Model. Choose from OpenAI, SentenceTransformers, or Google')
-        
+            raise Exception('Invalid Embedding Model. Choose from OpenAI, SentenceTransformers, Google, or Ollama.')
+
     def validate_collection(self):
         """
-        Validates the status of each collection in the WeaviateDB object.
-        Raises an exception if a cluster is not live.
+        Validates the existence or health of collections in the database.
+
+        Raises:
+            Exception: This method must be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
-            
+        raise Exception('This method should be implemented by the subclass.')
+
     def _initialize_clients(self) -> None:
         """
-        Initializes an object of Weaviate client which will have collections.
-        
-        Returns:
-            None
+        Initializes the database client(s).
+
+        Raises:
+            Exception: This method must be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
-        
+        raise Exception('This method should be implemented by the subclass.')
+
     def _get_client_collections(self) -> List[str]:
         """
-        A function to get all the collections in the Weaviate database for all the clients.
-        It first gets all the collections and then returns them as a list.
-
-        Parameters:
-            None
+        Retrieves all collections present in the database.
 
         Returns:
-            List[str]: A list of collection names.
+            List[str]: List of collection names.
+
+        Raises:
+            Exception: This method must be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
-        
+        raise Exception('This method should be implemented by the subclass.')
+
     def _verify_collections_existence_in_client(self) -> bool:
         """
-        A function to verify if the collections exist in the Weaviate database for all the clients.
-        
-        Returns: self.vector_db.add_text_to_db(
-            collection_name=collection_name,
-            text=text,
-            metadata=metadata
-        )
-            bool: True if all collections exist in the Weaviate database for all the clients, False otherwise.
+        Verifies whether the expected collections exist in the client database.
+
+        Returns:
+            bool: True if collections exist, False otherwise.
+
+        Raises:
+            Exception: This method must be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
+        raise Exception('This method should be implemented by the subclass.')
 
     def _initialize_vector_stores(self) -> None:
         """
-        Initializes a dictionary of WeaviateVectorStore objects for each collection in the WeaviateDB object.
-        
-        Returns:
-            None
+        Initializes vector stores for each collection.
+
+        Raises:
+            Exception: This method must be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
-    
+        raise Exception('This method should be implemented by the subclass.')
+
     def add_text_to_db(self) -> None:
         """
-        A function to add text data to a specified collection in the Weaviate database.
+        Adds a text document to a database collection.
 
-        Parameters:
-            collection_name (str): The name of the collection in the database.
-            text (str): The text data to be added.
-            metadata (dict): Additional metadata associated with the text.
-
-        Returns:
-            None
+        Raises:
+            Exception: This method must be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
-                        
+        raise Exception('This method should be implemented by the subclass.')
+
     def delete_collection(self):
         """
-        A function to delete a specified collection in the Weaviate database.
+        Deletes a specified collection from the database.
 
-        Parameters:
-            None
-
-        Returns:
-            None
+        Raises:
+            Exception: This method should be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
-            
+        raise Exception('This method should be implemented by the subclass.')
+
     def delete_all_collections(self) -> None:
         """
-        A function to delete all the collections in the Weaviate database for all the clients.
-        It first gets all the collections and then deletes them one by one.
+        Deletes all collections from the database client.
 
-        Parameters:
-            None
-
-        Returns:
-            None
+        Raises:
+            Exception: This method should be implemented by subclasses.
         """
-        raise Exception('This method should be implemented by the subclass')
+        raise Exception('This method should be implemented by the subclass.')
