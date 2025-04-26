@@ -1,6 +1,4 @@
-# =====================
-# Database/utils.py
-# =====================
+
 
 import os
 from dotenv import load_dotenv
